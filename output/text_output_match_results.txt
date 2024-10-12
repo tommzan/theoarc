@@ -1,0 +1,239 @@
+Comparing Theosophia with arcana_cap_1.txt:
+Number of Matches: 0
+
+
+==================================================
+
+Comparing Theosophia with arcana_cap_2.txt:
+Number of Matches: 4
+
+Matched passage in Theosophia:
+Nuncius interpres Cijllenius omnibus ipse est; Nijmphae aqua sunt, frumenta Ceres, Vulcanus at ignis Est mare Neptunus canentia littora pulsans, Mars bellum, pax alma Venus, mortalibus ipse Taurigena, et superis animi curaeque levamen, corniger est Bacchus
+
+Matched passage in arcana_cap_2.txt:
+Nuncius interpres Cijllenius omnibus ipse est. Nijmphae aqua sunt, frumenta Ceres, Vulcanus at ignis, Est mare Neptunus canentia littora pulsans. Mars bellum, Paxalma Venus, mortalibus ipse Taurigena et superis animi curaque levamen Corniger est Bacchus
+
+Matched passage in Theosophia:
+sol est mox idem contorquens spicula Apollo Eminus et peragens, et Divinator et augur, Morborum expulsor Deus est Epidaurius, ista Omnia sunt unum, sint plurima nomina
+
+Matched passage in arcana_cap_2.txt:
+Sol est mox idem contorquens spicula Apollo Eminus et peragens, et Divinator et Augur. Morborum expulsor Deus est Epidarius: ista Omnia sunt unum sint plurima nomina
+
+Matched passage in Theosophia:
+iuxta Eridanum in quadam spelunca habitantes contendit: Illae docent, Nereum hac de re esse consulendum; qui post interrogatus ab Hercule, docet
+
+Matched passage in arcana_cap_2.txt:
+iuxta Eridanum in quadam spelunca habitantes contendit, ab ijsque sciscitatur: Illae docent Nereum hac de re esse consulendum; Qui post interrogatus ab Hercule, refert
+
+Matched passage in Theosophia:
+ut Atlantem ad ea pro se mitteret, ac ipse tam diu caelum, dum rediret, Atlas, sustineret
+
+Matched passage in arcana_cap_2.txt:
+ut Atlantem ad ea pro se mitteret, ac ipse tam diu caelum, dum rediret Atlas, sustineret
+
+
+==================================================
+
+Comparing Theosophia with arcana_cap_3.txt:
+Number of Matches: 12
+
+Matched passage in Theosophia:
+obsimilitudinem quandam metalla singula sint attributa, metallorum tortores sive chemistae artifices hanc totam fere fabulam ad suam artem retorserunt: Cum se Gebrum, Hermetem, et Raimundum platonicos imittari velle profiteantur: Dicunt enim fictum fuisse ab antiquis, quod Iupiter Saturno genitales partes absciderit acuta falce, easque in mare deiecerit, ex quibus et e spuma nata sit Venus: quia Saturnus sal sit quidam pater Iovis, praeparati salis scilicet, qui fit ex eo preparato: sed quoniam cum Iupiter in vase vitreo existit, in peracutam tenuemque aquam solvitur propter vim ignis, quae sumitur etiam ab ipso Iove, cum viriles partes secum afferat, incidens ac separans sulfur intimum ac in sale latens, quae recidunt in vas, quod accipiendis apponitur; Idcirco et Saturno amputatas viriles partes dicunt: Et cum sal in aquam tanquam in mare decidat, ex illo sale et sulfure gignitur
+
+Matched passage in arcana_cap_3.txt:
+similitudinem quandam metalla singula sint attributa, metallorum tortores, sive chemistae artifices, hanc totam fere fabulam ad suam artem retorserunt, cum se Gebrum, Hermetem et Raimundum platonicos imitari velle profiteantur: Dicunt enim, fictum fuisse ab antiquis, quod Iupiter Saturno genitales partes absciderit acuta falce, easque in mare deiecerit, ex quibus et e spuma nata sit Venus; Quia Saturnus sal sit quidam, pater Iovis, praeparati salis scilicet, qui fit ex eo praeparato: Sed quoniam cum Iupiter in vase vitreo existit in peracutam tenuemque aquam soluitur propter vim ignis, quae sumitur etiam ab ipso Iove, cum viriles partes secum afferat, incidens ac separans sulfur intimum ac in sale latens, quae recidunt in vas, quod accipiendis apponitur; Idcirco et Saturno amputatas viriles partes dicunt, et cum sal in aquam tanquam in mare decidat, ex illo sale et sulfure gignitur
+
+Matched passage in Theosophia:
+obsimilitudinem quandam metalla singula sint attributa, metallorum tortores sive chemistae artifices hanc totam fere fabulam ad suam artem retorserunt: Cum se Gebrum, Hermetem, et Raimundum platonicos imittari velle profiteantur: Dicunt enim fictum fuisse ab antiquis, quod Iupiter Saturno genitales partes absciderit acuta falce, easque in mare deiecerit, ex quibus et e spuma nata sit Venus: quia Saturnus sal sit quidam pater Iovis, praeparati salis scilicet, qui fit ex eo preparato: sed quoniam cum Iupiter in vase vitreo existit, in peracutam tenuemque aquam solvitur propter vim ignis, quae sumitur etiam ab ipso Iove, cum viriles partes secum afferat, incidens ac separans sulfur intimum ac in sale latens, quae recidunt in vas, quod accipiendis apponitur; Idcirco et Saturno amputatas viriles partes dicunt: Et cum sal in aquam tanquam in mare decidat, ex illo sale et sulfure gignitur Venus
+
+Matched passage in arcana_cap_3.txt:
+similitudinem quandam metalla singula sint attributa, metallorum tortores, sive chemistae artifices, hanc totam fere fabulam ad suam artem retorserunt, cum se Gebrum, Hermetem et Raimundum platonicos imitari velle profiteantur: Dicunt enim, fictum fuisse ab antiquis, quod Iupiter Saturno genitales partes absciderit acuta falce, easque in mare deiecerit, ex quibus et e spuma nata sit Venus; Quia Saturnus sal sit quidam, pater Iovis, praeparati salis scilicet, qui fit ex eo praeparato: Sed quoniam cum Iupiter in vase vitreo existit in peracutam tenuemque aquam soluitur propter vim ignis, quae sumitur etiam ab ipso Iove, cum viriles partes secum afferat, incidens ac separans sulfur intimum ac in sale latens, quae recidunt in vas, quod accipiendis apponitur; Idcirco et Saturno amputatas viriles partes dicunt, et cum sal in aquam tanquam in mare decidat, ex illo sale et sulfure gignitur Venus
+
+Matched passage in Theosophia:
+simulatis sacrificijs inter cijmbalorum tijmpanorumque strepitum infantis vagitum occultarunt
+
+Matched passage in arcana_cap_3.txt:
+simulatis sacrificijs inter cijmbalorum tijmpanorumque strepitum infantis vagitum occultarunt
+
+Matched passage in Theosophia:
+quia propter illam caesus fuit Argus á Mercurio, et in illam avem mutatus
+
+Matched passage in arcana_cap_3.txt:
+Quia propter illam caesus fuit Argus a Mercurio et in illam avem mutatus
+
+Matched passage in Theosophia:
+partes ad suos ignes et ad sua vascula retrahere: Dicitur Iuno, inquiunt, Saturni et Opis filia, Iovisque soror et coniunx, et ante Iovem nata eodem partu, Reginaque ee deorum et divitiarum dea, partubus et matrimonijs
+
+Matched passage in arcana_cap_3.txt:
+partes ad suos ignes et ad sua vascula retrahere: Dicitur Iuno (inquiunt) Saturni et Opis filia, Iovisque soror et coniunx, et ante Iovem nata eodem partu, Reginaque esse deorum Iano. Entellus instat. et divitiarum deas partubus et matrimonijs
+
+Matched passage in Theosophia:
+nihil est aliud quam aqua Mercurij, quae Iuno nominatur: Saturni ea de causa est filia, quod ab eo et eius terra destillat ac manat: Haec terra dat opes, sive aurum chemicum, quod una destillet Iuno et Iupiter sive aqua Mercurij, et sal ima arte
+
+Matched passage in arcana_cap_3.txt:
+nihil est aliud, quam aqua mercurij, quae Iuno nominatur: Saturni ea de causa est filia, quod ab eo et eius terra destillat. ac manat: Haec terra dat opes sive aurum chemicum, quod una destillet Iuno et Iupiter, sive aqua Mercurij, et sal inima parte
+
+Matched passage in Theosophia:
+relictus: Cum vero prius effluat aqua Mercurij é vasculo, nascitur, Iuno ante
+
+Matched passage in arcana_cap_3.txt:
+relictus: Cum vero prius effluat aqua Mercurij e vasculo, nascitur Inno ante
+
+Matched passage in Theosophia:
+sacra fiebant Pambaeotia, constructam fuisse ob mijsticam quandam causam plutonis ac palladis aram
+
+Matched passage in arcana_cap_3.txt:
+sacra fiebant Pambaeotia constructam fuisse ob mijsticam quandam causam Plutonis ac Palladiis aram
+
+Matched passage in Theosophia:
+minime oblitum, auream sellam cum occultis quibusdam vinculis dono matri misisse, quae dam cum assedisset, statim
+
+Matched passage in arcana_cap_3.txt:
+minime oblitus, auream sellam cum occultis quibusdam vinculis dono ej misit, quae deam, cum assedisset, statim
+
+Matched passage in Theosophia:
+sulfur aut argentum cursitans, quod nihil nisi suae naturae in se recipit, sed ab omnibus separatur
+
+Matched passage in arcana_cap_3.txt:
+sulfur aut argentum cursitans, quod nihil nisi suae naturae in se recipit, sed ab omnibus separatur
+
+Matched passage in Theosophia:
+rogo imposita fuisset, Mercurius é ventre mortuae aesculapium extraxit, vel phaebus ipse ut
+
+Matched passage in arcana_cap_3.txt:
+rogo imposita fuisset, Mercurius e ventre mortuae Aesculapium extraxit, vel Phaebus ipse, ut
+
+Matched passage in Theosophia:
+Non tulit in cineres labi sua Phaebus eosdem Semina, sed natum flammis uteroque parenti Eripuit, geminique tulit Chironis
+
+Matched passage in arcana_cap_3.txt:
+Non tulit in cineres labi sua Phoebus eosdem Semina, sed natum flammis, uteroque parentis Eripuit, geminique tulit Chironis
+
+
+==================================================
+
+Comparing Theosophia with arcana_cap_4.txt:
+Number of Matches: 11
+
+Matched passage in Theosophia:
+triennum apud Proserpinam dormivisse, deinde excitatum choreis indulsisse cum nijmphis, ut ait Orpheus in hijmno
+
+Matched passage in arcana_cap_4.txt:
+triennium apud Proserpinam dormivisse, deinde excitatum choreis indulsisse cum Nijmphis, ut ait Orpheus in hijmno
+
+Matched passage in Theosophia:
+animavit, ac TRIptolemo currum á draconibus tractum dedit, ut universos mortales sationem frugum doceret, sicut testatur callimachus in hijmno in Cererem
+
+Matched passage in arcana_cap_4.txt:
+exanimavit, ac Triptolemo currum a draconibus tractum dedit ut universos mortales sationem frugum doceret, sicut testatur Callimachus in hijmno in Cererem
+
+Matched passage in Theosophia:
+Atque de cereris solennitate, quam Graeci Thesmophoria nominant, mihi, faustum felixque sit omen, ut quantum fas est, per religionem proferam; Fuerunt autem Danai filiae, quae hanc solennitatem
+
+Matched passage in arcana_cap_4.txt:
+Atque de Cereris solennitate, quam Graeci Thesmophoria nominant, mihi faustum felixque sit omen, ut quantum fas est per religionem, proferam: Fuerunt autem Dana filiae, quae hanc solennitatem
+
+Matched passage in Theosophia:
+qui sibi sceleris perpetrati conscius esset, id praecone conclamante: Quibus nec ausus est interesse Nero, quod impius esset: Et initiari voluit Antoninus princeps, ut probaret se
+
+Matched passage in arcana_cap_4.txt:
+qui sibi sceleris perpetrati conscius esset, id praecone conclamante: Quibus nec ausus est interesse Nero Imperator, quod impius esset et initiari voluit Antonius princeps, ut probaret se
+
+Matched passage in Theosophia:
+Quidam, inquit, aiunt, Melampodem Amijthaonis filium ab Aegijpto in Graeciam luctum cereris solenniter celebratum reportasse: Ceres peperit, educatur puella, Perephattem nonnulli appellant, cui IUPITER, qui genuit, DRACO factus coniungitur: Inde in savatiorum mijsterijs Draco in spiram
+
+Matched passage in arcana_cap_4.txt:
+Quidam, inquit, aiunt Melampodem Amijthaonis filium ab Aegijpto in Graeciam luctum Cereris solenniter celebratum reportasse: Ceres peperit, educatur puella, Perephatten nonnulli appellant, cui Iupiter qui genuit, Draco factus coniungitur: Inde in Savationum mijsterijs Draco in spiram
+
+Matched passage in Theosophia:
+imo vero in testimonium tantae turpitudinis, ut ego dixerim
+
+Matched passage in arcana_cap_4.txt:
+imo vero in testimonium tantae turpitudinis, ut ego dixerim
+
+Matched passage in Theosophia:
+Peperit et periphatte tauriformem filium, unde poetae quidam taurum laudant, Draconis patrem, et Draconem rursus tauri patrem, et in montem arcana haec facta ducentes, pastoralem stimulum celebrabant; pastoralem, ut puto, stimulum, ferulam, quod genus ligni bacchantes ferunt: Nequeo latius huius Perephattae sacra enarrare, quasillum, rapinam: Idonerae terrae hiatum, sues Eubolei, quos eodem hiatu simul et duas deas absorptas aiunt fuisse: Unde et Megareum in Thesmophorijs suis immittunt, quae sacra varijs modis mulieres, quoniam haec
+
+Matched passage in arcana_cap_4.txt:
+Peperit et Perephatte tauriformem filium; Unde Poetae quidam taurum laudant Draconis patrem, et Draconem rursus tauri patrem, et in montem arcana haec facta, ducentes pastoralem stimulum celebrabant: Pastoralem ut puto, stimulum, ferulam quod genus ligni bacchantes ferunt. Nequeo latius huius Perephattae sacra enarrare, quasillum, rapinam, Idonerae terrae hiatum, sues Eubolei, quas eodem hiatu simul et duas deas absorptas aiunt fuisse: Unde et Megareum in Thesmophoijs suis immittunt, quae sacra varijs modis mulieres, quoniam haec
+
+Matched passage in Theosophia:
+Peperit et periphatte tauriformem filium, unde poetae quidam taurum laudant, Draconis patrem, et Draconem rursus tauri patrem, et in montem arcana haec facta ducentes, pastoralem stimulum celebrabant; pastoralem, ut puto, stimulum, ferulam, quod genus ligni bacchantes ferunt: Nequeo latius huius Perephattae sacra enarrare, quasillum, rapinam: Idonerae terrae hiatum, sues Eubolei, quos eodem hiatu simul et duas deas absorptas aiunt fuisse: Unde et Megareum in Thesmophorijs suis immittunt, quae sacra varijs modis mulieres, quoniam haec fabula variè narratur, per civitates Graeciae celebrant, Thesmophoria, Scirophoria, Inephabiliphoria, vocantes, et multis modis perephattae rapinam complorantes: Tantum clemens
+
+Matched passage in arcana_cap_4.txt:
+Peperit et Perephatte tauriformem filium; Unde Poetae quidam taurum laudant Draconis patrem, et Draconem rursus tauri patrem, et in montem arcana haec facta, ducentes pastoralem stimulum celebrabant: Pastoralem ut puto, stimulum, ferulam quod genus ligni bacchantes ferunt. Nequeo latius huius Perephattae sacra enarrare, quasillum, rapinam, Idonerae terrae hiatum, sues Eubolei, quas eodem hiatu simul et duas deas absorptas aiunt fuisse: Unde et Megareum in Thesmophoijs suis immittunt, quae sacra varijs modis mulieres, quoniam haec fabula varie narratur, per civitates Graeciae celebrant, Thesmophoria, Scirophoria, Inephabiliphoria vocantes, et multis modis Periphattae rapinae complorantes: Tantum clemens
+
+Matched passage in Theosophia:
+Hierophantes; solis, quam facifer; Lunae, quam minister ad aram: Mercurij, quam praeco
+
+Matched passage in arcana_cap_4.txt:
+Hierophantes: solis. quam facifer Lunae quam minister ad aram; Mercurii, quam praeco
+
+Matched passage in Theosophia:
+Draconis patrem, et Draconem rursus tauri patrem
+
+Matched passage in arcana_cap_4.txt:
+Draconis patrem, et Draconem rursus tauri patrem
+
+Matched passage in Theosophia:
+Qui cunctis alimenta refers, prudentia cuius plurima, qui vario laetaris nomine Adoni: Germinum et idem author, pariter puer atque puella; Extincte atque iterum splendens labentibus horis: Hi
+
+Matched passage in arcana_cap_4.txt:
+Qui cunctis alimenta refers, prudentia cuius Plurima, qui vario lataris nomine Adoni, Germinum et idem author, pariter puer atque puella, Extincte atque iterum splendens labentibus horis. Adonis
+
+
+==================================================
+
+Comparing Theosophia with arcana_cap_5.txt:
+Number of Matches: 5
+
+Matched passage in Theosophia:
+Eumolpus autem ille, qui librum de mijsterijs composuit, scripsit Herculem primum quidem fuisse invisum Iunoni propter matrem pellicem, at placatam fuisse á Pallade, cuius et hortatu
+
+Matched passage in arcana_cap_5.txt:
+Eumolpus autem ille, qui librum de mijsterijs composuit, scripsit, Herculem primum quidem fuisse inuisum Iunoni propter matrem pellicem, at placatam fuisse a Pallade, cuius etiam hortatu
+
+Matched passage in Theosophia:
+Scribit Iunonem supplicium de Hercule sumere volentem lunam in axilium accivisse, quae cistram spuma implevit, é qua natus est hic leo
+
+Matched passage in arcana_cap_5.txt:
+scribit; Iunonem supplicium. de Hercule sumere volentem, Lunam in auxilium, carminibus magicis usam accivisse, quae cistanspuma implevit, e qua natus est hic leo
+
+Matched passage in Theosophia:
+caedebatur, priorum numerus duplicabatur continuo; nisi quis concisum reliquum colli thijrsum igni statim combussisset
+
+Matched passage in arcana_cap_5.txt:
+caedebatur, priorum numerus duplicabatur continuo, nisi quis concisum reliquum colli thijrsum igne statim combussisset
+
+Matched passage in Theosophia:
+cornu eius fregit, pro quo redimendo Achelous, Amaltheae Harmodij filiae cornu Herculi largitur, quod ille omnibus fructibus refertum Iovi consecravit
+
+Matched passage in arcana_cap_5.txt:
+cornu eius fregit, pro quo redimendo beravit. Achelous Amaltheae, Harmodii filiae, cornu Herculi largitur, quod ille omnibus fructibus refertum Iovi consecravit
+
+Matched passage in Theosophia:
+Iovi, Neptuno, Iunoni, Palladi, Mercurio, Apollini, Gratijs, Baccho, Dianae, Alpheo
+
+Matched passage in arcana_cap_5.txt:
+Iovi, Neptuno, Iunoni, Palladi, Mercurio, Apollini, Gratijs, Baccho, Dianae, Alphe
+
+
+==================================================
+
+Comparing Theosophia with arcana_cap_6.txt:
+Number of Matches: 2
+
+Matched passage in Theosophia:
+epulis abstinverunt, praeter unam cererem, quae ob raptae filiae proserpinae dolorem pene desipiens inconsulto humerum edit: Tum dij reliqui eius filij miserti eum rursus iecerunt in lebetem ac recoctum vitae restituerunt
+
+Matched passage in arcana_cap_6.txt:
+epulis abstinuerunt, praeter unam Cererem, quae ob raptae filiae Proserpinae dolorem pene desipiens inconsulto humerum edit; Tum dij reliqui eius filij miserti cum rursus iecerunt in lebetem ac recoctum vitae restituerunt
+
+Matched passage in Theosophia:
+loquacitatem, quia secreta deorum mortalibus divulgaverit: Quaerit aquas in aquis, et poma fugacia captat Tantalus, hoc illi garrula lingua dedit
+
+Matched passage in arcana_cap_6.txt:
+loquacitatem, quia secreta deorum mortalibus divulgaverit, ubi inquit: Quaerit aquas in aquis et poma fugacia captat. Tantalus, hoc illi garrula lingua dedit
+
+
+==================================================
