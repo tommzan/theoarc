@@ -11,4 +11,4 @@ Zu finden sind:
 - ein **Markdown-file** zu den vorgenommenen Normalisierungen im Zuge des Preprocessings
 
 ## License
-[Attribution 4.0 International CC BY 4.0] (https://creativecommons.org/licenses/by/4.0/)
+[Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
