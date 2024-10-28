@@ -9,6 +9,7 @@ Zu finden sind:
 - im **fixtures** folder die angelegten Dateien für die collateX-Analyse
 - im **xslt** folder ein XSLT-sheet, welches für das Preprocessing nötig ist und den TEI-Export in die benötigte txt-Datei, mit ein paar Adaptierungen, transformiert
 - ein **Markdown-file** zu den vorgenommenen Normalisierungen im Zuge des Preprocessings
+- im **models** folder festgehaltene Screenshots des auf Transkribus umgesetzten HTR-Modelltrainings
 
 ## License
 [Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
