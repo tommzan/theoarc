@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            >Hierophantes<app><rdg wit="#ARC4">:</rdg><rdg wit="#THEO1">;</rdg></app> solis<app><rdg
+            wit="#ARC4">.</rdg><rdg wit="#THEO1">,</rdg></app> quam facifer <app><rdg wit="#THEO1"
+            >;</rdg></app> Lunae <app><rdg wit="#THEO1">,</rdg></app> quam minister ad aram<app><rdg
+            wit="#ARC4">; Mercurii</rdg><rdg wit="#THEO1">: Mercurij</rdg></app>, quam
+    praeco</cx:apparatus>

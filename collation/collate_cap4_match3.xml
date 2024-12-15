@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >Atque de <app><rdg wit="#ARC4">Cereris</rdg><rdg wit="#THEO1">cereris</rdg></app> solennitate,
+    quam Graeci Thesmophoria nominant, mihi <app><rdg wit="#THEO1">,</rdg></app> faustum felixque
+    sit omen, ut quantum fas est <app><rdg wit="#THEO1">,</rdg></app> per religionem <app><rdg
+            wit="#ARC4">,</rdg></app> proferam<app><rdg wit="#ARC4">:</rdg><rdg wit="#THEO1"
+        >;</rdg></app> Fuerunt autem <app><rdg wit="#ARC4">Dana</rdg><rdg wit="#THEO1"
+        >Danai</rdg></app> filiae, quae hanc solennitatem</cx:apparatus>

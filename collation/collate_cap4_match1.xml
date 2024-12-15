@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC4">triennium</rdg><rdg wit="#THEO1">triennum</rdg></app> apud
+    Proserpinam dormivisse, deinde excitatum choreis indulsisse cum <app><rdg wit="#ARC4"
+            >Nijmphis</rdg><rdg wit="#THEO1">nijmphis</rdg></app>, ut ait Orpheus in
+    hijmno</cx:apparatus>

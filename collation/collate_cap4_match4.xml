@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC4">qui sibi sceleris perpetrati conscius esset, id praecone
+            conclamante: Quibus nec ausus est interesse Nero</rdg><rdg wit="#THEO1">qui sibi
+            sceleris perpetrati conscius esset, id praecone conclamante: Quibus nec ausus est
+            interesse Nero</rdg></app>
+    <app><rdg wit="#ARC4">Imperator</rdg></app><app><rdg wit="#ARC4">, quod impius esset</rdg><rdg
+            wit="#THEO1">, quod impius esset</rdg></app>
+    <app><rdg wit="#ARC4">et</rdg><rdg wit="#THEO1">: Et</rdg></app> initiari voluit <app><rdg
+            wit="#ARC4">Antonius</rdg><rdg wit="#THEO1">Antoninus</rdg></app> princeps, ut probaret
+    se</cx:apparatus>

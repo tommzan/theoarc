@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC4">exanimavit</rdg><rdg wit="#THEO1">animavit</rdg></app>, ac
+            <app><rdg wit="#ARC4">Triptolemo</rdg><rdg wit="#THEO1">TRIptolemo</rdg></app> currum
+            <app><rdg wit="#ARC4">a</rdg><rdg wit="#THEO1">á</rdg></app>
+    <app><rdg wit="#ARC4">draconibus tractum dedit</rdg><rdg wit="#THEO1">draconibus tractum
+            dedit</rdg></app>
+    <app><rdg wit="#THEO1">,</rdg></app> ut universos mortales sationem frugum doceret, sicut
+    testatur <app><rdg wit="#ARC4">Callimachus</rdg><rdg wit="#THEO1">callimachus</rdg></app> in
+    hijmno in Cererem</cx:apparatus>

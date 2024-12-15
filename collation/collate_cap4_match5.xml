@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >Quidam, inquit, aiunt <app><rdg wit="#THEO1">,</rdg></app> Melampodem Amijthaonis filium ab
+    Aegijpto in Graeciam luctum <app><rdg wit="#ARC4">Cereris</rdg><rdg wit="#THEO1"
+        >cereris</rdg></app> solenniter celebratum reportasse: Ceres peperit, educatur puella,
+            <app><rdg wit="#ARC4">Perephatten</rdg><rdg wit="#THEO1">Perephattem</rdg></app>
+    nonnulli appellant, cui <app><rdg wit="#ARC4">Iupiter</rdg><rdg wit="#THEO1"
+        >IUPITER,</rdg></app> qui genuit, <app><rdg wit="#ARC4">Draco</rdg><rdg wit="#THEO1"
+            >DRACO</rdg></app> factus coniungitur: Inde in <app><rdg wit="#ARC4"
+            >Savationum</rdg><rdg wit="#THEO1">savatiorum</rdg></app> mijsterijs Draco in
+    spiram</cx:apparatus>

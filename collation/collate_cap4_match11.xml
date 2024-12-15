@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >Qui cunctis alimenta refers, prudentia cuius <app><rdg wit="#ARC4">Plurima</rdg><rdg
+            wit="#THEO1">plurima</rdg></app><app><rdg wit="#ARC4">, qui vario</rdg><rdg wit="#THEO1"
+            >, qui vario</rdg></app>
+    <app><rdg wit="#ARC4">lataris</rdg><rdg wit="#THEO1">laetaris</rdg></app> nomine Adoni<app><rdg
+            wit="#ARC4">,</rdg><rdg wit="#THEO1">:</rdg></app> Germinum et idem author, pariter puer
+    atque puella<app><rdg wit="#ARC4">,</rdg><rdg wit="#THEO1">;</rdg></app>
+    <app><rdg wit="#ARC4">Extincte atque iterum splendens labentibus horis</rdg><rdg wit="#THEO1"
+            >Extincte atque iterum splendens labentibus horis</rdg></app><app><rdg wit="#ARC4">.
+            Adonis</rdg><rdg wit="#THEO1">: Hi</rdg></app></cx:apparatus>
