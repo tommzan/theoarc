@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >epulis <app><rdg wit="#ARC6">abstinuerunt</rdg><rdg wit="#THEO1">abstinverunt</rdg></app>,
+    praeter unam <app><rdg wit="#ARC6">Cererem</rdg><rdg wit="#THEO1">cererem</rdg></app>, quae ob
+    raptae filiae <app><rdg wit="#ARC6">Proserpinae</rdg><rdg wit="#THEO1">proserpinae</rdg></app>
+    dolorem pene desipiens inconsulto humerum edit<app><rdg wit="#ARC6">;</rdg><rdg wit="#THEO1"
+            >:</rdg></app> Tum dij reliqui eius filij miserti <app><rdg wit="#ARC6">cum</rdg><rdg
+            wit="#THEO1">eum</rdg></app>
+    <app><rdg wit="#ARC6">rursus iecerunt in lebetem ac recoctum vitae restituerunt</rdg><rdg
+            wit="#THEO1">rursus iecerunt in lebetem ac recoctum vitae
+    restituerunt</rdg></app></cx:apparatus>
