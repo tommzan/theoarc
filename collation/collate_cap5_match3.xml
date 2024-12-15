@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >caedebatur, priorum numerus duplicabatur continuo<app><rdg wit="#ARC5">,</rdg><rdg wit="#THEO1"
+            >;</rdg></app> nisi quis concisum reliquum colli thijrsum <app><rdg wit="#ARC5"
+            >igne</rdg><rdg wit="#THEO1">igni</rdg></app> statim combussisset</cx:apparatus>

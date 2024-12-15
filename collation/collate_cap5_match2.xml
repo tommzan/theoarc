@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC5">scribit;</rdg><rdg wit="#THEO1">Scribit</rdg></app> Iunonem
+    supplicium <app><rdg wit="#ARC5">.</rdg></app> de Hercule sumere volentem <app><rdg wit="#ARC5"
+            >, Lunam</rdg><rdg wit="#THEO1">lunam</rdg></app> in <app><rdg wit="#ARC5">auxilium,
+            carminibus magicis usam</rdg><rdg wit="#THEO1">axilium</rdg></app> accivisse, quae
+            <app><rdg wit="#ARC5">cistanspuma</rdg><rdg wit="#THEO1">cistram spuma</rdg></app>
+    implevit, <app><rdg wit="#ARC5">e</rdg><rdg wit="#THEO1">é</rdg></app>
+    <app><rdg wit="#ARC5">qua natus est hic leo</rdg><rdg wit="#THEO1">qua natus est hic
+        leo</rdg></app></cx:apparatus>

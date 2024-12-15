@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC5">cornu eius fregit, pro quo redimendo</rdg><rdg wit="#THEO1">cornu
+            eius fregit, pro quo redimendo</rdg></app>
+    <app><rdg wit="#ARC5">beravit.</rdg></app> Achelous <app><rdg wit="#ARC5">Amaltheae</rdg></app>,
+            <app><rdg wit="#ARC5">Harmodii</rdg><rdg wit="#THEO1">Amaltheae Harmodij</rdg></app>
+    filiae <app><rdg wit="#ARC5">,</rdg></app>
+    <app><rdg wit="#ARC5">cornu Herculi largitur, quod ille omnibus fructibus refertum Iovi
+            consecravit</rdg><rdg wit="#THEO1">cornu Herculi largitur, quod ille omnibus fructibus
+            refertum Iovi consecravit</rdg></app></cx:apparatus>

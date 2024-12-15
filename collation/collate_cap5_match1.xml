@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >Eumolpus autem ille, qui librum de mijsterijs composuit, scripsit <app><rdg wit="#ARC5"
+        >,</rdg></app> Herculem primum quidem fuisse <app><rdg wit="#ARC5">inuisum</rdg><rdg
+            wit="#THEO1">invisum</rdg></app> Iunoni propter matrem pellicem, at placatam fuisse
+            <app><rdg wit="#ARC5">a</rdg><rdg wit="#THEO1">á</rdg></app> Pallade, cuius <app><rdg
+            wit="#ARC5">etiam</rdg><rdg wit="#THEO1">et</rdg></app> hortatu</cx:apparatus>
