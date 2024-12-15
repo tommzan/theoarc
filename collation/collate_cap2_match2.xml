@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC2">Sol</rdg><rdg wit="#THEO1">sol</rdg></app>
+    <app><rdg wit="#ARC2">est mox idem contorquens spicula Apollo Eminus et peragens, et Divinator
+            et</rdg><rdg wit="#THEO1">est mox idem contorquens spicula Apollo Eminus et peragens, et
+            Divinator et</rdg></app>
+    <app><rdg wit="#ARC2">Augur.</rdg><rdg wit="#THEO1">augur,</rdg></app>
+    <app><rdg wit="#ARC2">Morborum expulsor Deus est</rdg><rdg wit="#THEO1">Morborum expulsor
+            Deus est</rdg></app>
+    <app><rdg wit="#ARC2">Epidarius:</rdg><rdg wit="#THEO1">Epidaurius,</rdg></app> ista Omnia sunt
+    unum <app><rdg wit="#THEO1">,</rdg></app> sint plurima nomina</cx:apparatus>

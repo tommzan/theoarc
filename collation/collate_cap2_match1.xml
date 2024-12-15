@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC2">Nuncius interpres Cijllenius omnibus ipse est</rdg><rdg
+            wit="#THEO1">Nuncius interpres Cijllenius omnibus ipse est</rdg></app><app><rdg
+            wit="#ARC2">.</rdg><rdg wit="#THEO1">;</rdg></app>
+    <app><rdg wit="#ARC2">Nijmphae aqua sunt, frumenta Ceres, Vulcanus at ignis</rdg><rdg
+            wit="#THEO1">Nijmphae aqua sunt, frumenta Ceres, Vulcanus at ignis</rdg></app>
+    <app><rdg wit="#ARC2">,</rdg></app>
+    <app><rdg wit="#ARC2">Est mare Neptunus canentia littora pulsans</rdg><rdg wit="#THEO1">Est mare
+            Neptunus canentia littora pulsans</rdg></app><app><rdg wit="#ARC2">.</rdg><rdg
+            wit="#THEO1">,</rdg></app> Mars bellum, <app><rdg wit="#ARC2">Paxalma</rdg><rdg
+            wit="#THEO1">pax alma</rdg></app>
+    <app><rdg wit="#ARC2">Venus, mortalibus ipse Taurigena</rdg><rdg wit="#THEO1">Venus,
+            mortalibus ipse Taurigena</rdg></app>
+    <app><rdg wit="#THEO1">,</rdg></app> et superis animi <app><rdg wit="#ARC2">curaque</rdg><rdg
+            wit="#THEO1">curaeque</rdg></app> levamen <app><rdg wit="#ARC2">Corniger</rdg><rdg
+            wit="#THEO1">, corniger</rdg></app> est Bacchus</cx:apparatus>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >iuxta Eridanum in quadam spelunca habitantes contendit<app><rdg wit="#ARC2">, ab ijsque
+            sciscitatur</rdg></app>: Illae docent <app><rdg wit="#THEO1">,</rdg></app> Nereum hac de
+    re esse consulendum; <app><rdg wit="#ARC2">Qui</rdg><rdg wit="#THEO1">qui</rdg></app>
+    <app><rdg wit="#ARC2">post interrogatus ab Hercule,</rdg><rdg wit="#THEO1">post interrogatus ab
+            Hercule,</rdg></app>
+    <app><rdg wit="#ARC2">refert</rdg><rdg wit="#THEO1">docet</rdg></app></cx:apparatus>
