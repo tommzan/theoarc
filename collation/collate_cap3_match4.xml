@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC3">Quia</rdg><rdg wit="#THEO1">quia</rdg></app>
+    <app><rdg wit="#ARC3">propter illam caesus fuit Argus</rdg><rdg wit="#THEO1">propter illam
+            caesus fuit Argus</rdg></app>
+    <app><rdg wit="#ARC3">a</rdg><rdg wit="#THEO1">á</rdg></app> Mercurio <app><rdg wit="#THEO1"
+            >,</rdg></app> et in illam avem mutatus</cx:apparatus>

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >rogo imposita fuisset, Mercurius <app><rdg wit="#ARC3">e</rdg><rdg wit="#THEO1">é</rdg></app>
+    ventre mortuae <app><rdg wit="#ARC3">Aesculapium</rdg><rdg wit="#THEO1">aesculapium</rdg></app>
+    extraxit, vel <app><rdg wit="#ARC3">Phaebus</rdg><rdg wit="#THEO1">phaebus</rdg></app> ipse
+            <app><rdg wit="#ARC3">,</rdg></app> ut</cx:apparatus>

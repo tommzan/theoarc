@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC3">relictus: Cum vero prius effluat aqua Mercurij</rdg><rdg
+            wit="#THEO1">relictus: Cum vero prius effluat aqua Mercurij</rdg></app>
+    <app><rdg wit="#ARC3">e</rdg><rdg wit="#THEO1">é</rdg></app> vasculo, nascitur <app><rdg
+            wit="#ARC3">Inno</rdg><rdg wit="#THEO1">, Iuno</rdg></app> ante</cx:apparatus>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >partes ad suos ignes et ad sua vascula retrahere: Dicitur Iuno <app><rdg wit="#ARC3"
+            >(</rdg><rdg wit="#THEO1">,</rdg></app> inquiunt<app><rdg wit="#ARC3">)</rdg><rdg
+            wit="#THEO1">,</rdg></app> Saturni et Opis filia, Iovisque soror et coniunx, et ante
+    Iovem nata eodem partu, Reginaque <app><rdg wit="#ARC3">esse</rdg><rdg wit="#THEO1"
+        >ee</rdg></app> deorum <app><rdg wit="#ARC3">Iano. Entellus instat.</rdg></app> et
+    divitiarum <app><rdg wit="#ARC3">deas</rdg><rdg wit="#THEO1">dea,</rdg></app>
+    <app><rdg wit="#ARC3">partubus et matrimonijs</rdg><rdg wit="#THEO1">partubus et
+            matrimonijs</rdg></app></cx:apparatus>

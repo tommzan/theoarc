@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >Non tulit in cineres labi sua <app><rdg wit="#ARC3">Phoebus</rdg><rdg wit="#THEO1"
+            >Phaebus</rdg></app> eosdem Semina, sed natum flammis <app><rdg wit="#ARC3"
+        >,</rdg></app> uteroque <app><rdg wit="#ARC3">parentis</rdg><rdg wit="#THEO1"
+        >parenti</rdg></app> Eripuit, geminique tulit Chironis</cx:apparatus>

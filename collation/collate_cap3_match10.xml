@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <app>
+        <rdg wit="#ARC3">sulfur aut argentum cursitans, quod nihil nisi suae naturae in se recipit,
+            sed ab omnibus separatur</rdg>
+        <rdg wit="#THEO1">sulfur aut argentum cursitans, quod nihil nisi suae naturae in se recipit,
+            sed ab omnibus separatur</rdg>
+    </app>
+</cx:apparatus>

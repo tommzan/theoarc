@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+            ><app><rdg wit="#ARC3">similitudinem</rdg><rdg wit="#THEO1">obsimilitudinem</rdg></app>
+    quandam metalla singula sint attributa, metallorum tortores <app><rdg wit="#ARC3">,</rdg></app>
+    sive chemistae artifices <app><rdg wit="#ARC3">,</rdg></app> hanc totam fere fabulam ad suam
+    artem retorserunt<app><rdg wit="#ARC3">, cum</rdg><rdg wit="#THEO1">: Cum</rdg></app> se Gebrum,
+    Hermetem <app><rdg wit="#THEO1">,</rdg></app> et Raimundum platonicos <app><rdg wit="#ARC3"
+            >imitari</rdg><rdg wit="#THEO1">imittari</rdg></app> velle profiteantur: Dicunt enim
+            <app><rdg wit="#ARC3">,</rdg></app> fictum fuisse ab antiquis, quod Iupiter Saturno
+    genitales partes absciderit acuta falce, easque in mare deiecerit, ex quibus et e spuma nata sit
+            Venus<app><rdg wit="#ARC3">; Quia</rdg><rdg wit="#THEO1">: quia</rdg></app>
+    <app><rdg wit="#ARC3">Saturnus sal sit quidam</rdg><rdg wit="#THEO1">Saturnus sal sit
+            quidam</rdg></app>
+    <app><rdg wit="#ARC3">,</rdg></app> pater Iovis, praeparati salis scilicet, qui fit ex eo
+            <app><rdg wit="#ARC3">praeparato</rdg><rdg wit="#THEO1">preparato</rdg></app>: <app><rdg
+            wit="#ARC3">Sed</rdg><rdg wit="#THEO1">sed</rdg></app> quoniam cum Iupiter in vase
+    vitreo existit <app><rdg wit="#THEO1">,</rdg></app> in peracutam tenuemque aquam <app><rdg
+            wit="#ARC3">soluitur</rdg><rdg wit="#THEO1">solvitur</rdg></app> propter vim ignis, quae
+    sumitur etiam ab ipso Iove, cum viriles partes secum afferat, incidens ac separans sulfur
+    intimum ac in sale latens, quae recidunt in vas, quod accipiendis apponitur; Idcirco et Saturno
+    amputatas viriles partes dicunt<app><rdg wit="#ARC3">, et</rdg><rdg wit="#THEO1">:
+        Et</rdg></app> cum sal in aquam tanquam in mare decidat, ex illo sale et sulfure gignitur
+    Venus</cx:apparatus>

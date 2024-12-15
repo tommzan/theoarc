@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >minime <app><rdg wit="#ARC3">oblitus</rdg><rdg wit="#THEO1">oblitum</rdg></app>, auream sellam
+    cum occultis quibusdam vinculis dono <app><rdg wit="#ARC3">ej misit</rdg><rdg wit="#THEO1">matri
+            misisse</rdg></app>, quae <app><rdg wit="#ARC3">deam,</rdg><rdg wit="#THEO1"
+        >dam</rdg></app> cum assedisset, statim</cx:apparatus>

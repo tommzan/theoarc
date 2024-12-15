@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >nihil est aliud<app><rdg wit="#ARC3">,</rdg></app> quam aqua <app><rdg wit="#ARC3"
+            >mercurij</rdg><rdg wit="#THEO1">Mercurij</rdg></app><app><rdg wit="#ARC3">, quae Iuno
+            nominatur: Saturni ea de causa est filia, quod ab eo et eius terra destillat</rdg><rdg
+            wit="#THEO1">, quae Iuno nominatur: Saturni ea de causa est filia, quod ab eo et
+            eius terra destillat</rdg></app>
+    <app><rdg wit="#ARC3">.</rdg></app> ac manat: Haec terra dat opes <app><rdg wit="#THEO1"
+        >,</rdg></app> sive aurum chemicum, quod una destillet Iuno et Iupiter <app><rdg wit="#ARC3"
+            >,</rdg></app> sive aqua Mercurij, et sal <app><rdg wit="#ARC3">inima parte</rdg><rdg
+            wit="#THEO1">ima arte</rdg></app></cx:apparatus>

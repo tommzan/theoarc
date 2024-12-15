@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    >sacra fiebant Pambaeotia <app><rdg wit="#THEO1">,</rdg></app> constructam fuisse ob mijsticam
+    quandam causam <app><rdg wit="#ARC3">Plutonis</rdg><rdg wit="#THEO1">plutonis</rdg></app> ac
+            <app><rdg wit="#ARC3">Palladiis</rdg><rdg wit="#THEO1">palladis</rdg></app>
+    aram</cx:apparatus>
