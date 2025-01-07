@@ -14,6 +14,8 @@ Dabei wurden zum einen ein eigenes HTR-Modell auf [Transkribus](https://www.tran
 - im **xslt** folder ein XSLT-sheet, welches das TEI-XML in die für die Text-Reuse-Detection benötigte TXT-Datei, mit ein paar Adaptierungen, transformiert
 - im **normalisierungen.md** file die vorgenommenen Normalisierungen im Zuge des Preprocessings für die Erstellung der TXT-Dateien der Theosophia und den Arcana
 
+## Zitiervorschlag
+Zangl, Thomas: theoarc. In: GitHub repository. Online unter: https://github.com/tommzan/theoarc.
 
 ## License
 [Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
