@@ -3,7 +3,7 @@
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title type="main">De Theosophia Aegyptiorum</title>
+				<title type="main">Theosophia Aegyptiorum</title>
 				<author ana="marcrelator:aut">
 					<persName ref="#MM">
 						<forename>Michael</forename>
@@ -12,10 +12,7 @@
 				</author>
 				<respStmt ana="marcrelator:fac">
 					<resp>Erstellung der Faksimile</resp>
-					<persName>
-						<forename>XY</forename>
-						<surname>XY</surname>
-					</persName>
+					<orgName corresp="https://www.ub.uni-leipzig.de/forschungsbibliothek/handschriftenzentrum/" ref="https://d-nb.info/gnd/1265207593">Handschriftenzentrum Universitätsbibliothek Leipzig</orgName>
 				</respStmt>
 				<respStmt ana="marcrelator:trc">
 					<resp>Transkription des Originalmanuskripts</resp>
@@ -58,17 +55,20 @@
 						<settlement>Leipzig</settlement>
 						<institution>Universitätsbibliothek Leipzig</institution>
 						<collection>Handschriftenzentrum Sondersammlung</collection>
-						<altIdentifier>
-							<idno>MS 0396</idno>
-						</altIdentifier>
+						<idno>Ms 0396</idno>
 						<msName>De Theosophia Aegyptiorum</msName>
+						<msName>Michael Mayer: De circulo artium … hoc est de lapide sanitatis philosophico</msName>
+						<altIdentifier type="HSP">
+							<idno>HSP-3305eed5-5446-327f-a786-bbf593f17bd9</idno>
+						</altIdentifier>
 					</msIdentifier>
 					<physDesc>
 						<objectDesc form="manuscript">
 							<supportDesc material="paper">
 								<support>Papier</support>
 								<extent>
-									<measure quantity="130" unit="folia">130 Folia</measure>
+									<measure quantity="130" unit="folios">130 Folios</measure>
+									<dimensions unit="cm"><height>21,5</height><width>17</width></dimensions>
 								</extent>
 								<foliation>
 									<p>Jede zweite Seite ist im rechten oberen Eck mit Bleistift
@@ -95,6 +95,21 @@
 							</handNote>
 						</handDesc>
 					</physDesc>
+					<history>
+						<p>Das Manuskript wurde im <origDate notBefore="1600" notAfter="1622">frühen 17. Jahrhundert</origDate> verfasst.</p>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source corresp="https://resolver.staatsbibliothek-berlin.de/HSP00064C1800000000">Die bibliographische Beschreibung für das Manuskript im Handschriftenportal wurde von <persName>Detlef Döring</persName>verfasst.</source>
+							</recordHist>
+							<availability>
+								<p>Das Manuskript ist mittels einer <ref target="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Lizenz</ref> zugänglich. 
+									Es wurde im Jahr <date when="2022">2022</date> von der UB Leipzig als Farbdigitalisatdigitalisiert.
+									Die Digitalisatpräsentation ist unter folgendem URN-URL erreichbar: <ref target="https://nbn-resolving.org/urn:nbn:de:bsz:15-0012-455000">https://nbn-resolving.org/urn:nbn:de:bsz:15-0012-455000</ref>.</p>
+							</availability>
+						</adminInfo>
+					</additional>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -111,7 +126,7 @@
 	</teiHeader>
 	<facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="3840" lry="5760">
-			<graphic url="0001_ms_0396_0000_II_r.jpg" width="3840px" height="5760px"/>
+			<graphic url="0001_ms_0396_0000_II_r.jpg" width="3840px" height="5760px"/>			
 			<zone points="3177,3282 3390,3282 3390,3452 3177,3452" rendition="TextRegion"
 				xml:id="facs_1_r">
 				<zone
@@ -24372,7 +24387,7 @@
 				<lb facs="#facs_9_r1l10" n="N009"/>in propatulo habeatur, tam veteris, <choice>
 					<expan>qui</expan>
 					<abbr>ꝗ</abbr>
-				</choice> falsam religionem ex male¬  
+				</choice> falsam religionem ex male  
 				<lb facs="#facs_9_r1l11" n="N012"/>intellectis deorum vocabulis induxe<add place="above" facs="#facs_9_l_2230" n="N010">runt</add> et colue<add place="above" facs="#facs_9_l_2256" n="N011">runt</add><del rend="strikethrough">t</del>, quam <choice>
 					<expan>recentiorusque</expan>
 					<abbr>recentiorꝯq</abbr>
@@ -24919,7 +24934,7 @@
 				<lb facs="#facs_13_r1l5" n="N006"/>et quo tempore contigerit, <add place="above" facs="#facs_13_l" n="N005">nos</add> <del rend="strikethrough">hoc</del> <choice>
 					<expan>latius</expan>
 					<abbr>latiꝯ</abbr>
-				</choice>, quuantum ex veris hysto¬ 
+				</choice>, quantum ex veris hysto¬ 
 				<lb facs="#facs_13_r1l6" n="N007"/>riarum monumentis, <choice>
 					<expan>alȳsque</expan>
 					<abbr>alȳsq</abbr>
@@ -24973,7 +24988,7 @@
 				</choice> sentirent: 
 				<lb facs="#facs_13_r1l21" n="N022"/>Nam tempore <persName ref="#ALX">Alexandri Magni</persName>, et diu ante, <del rend="strikethrough">facerete</del>
 				<lb facs="#facs_13_r1l22" n="N023"/>Antistites Ægȳptÿ <del rend="strikethrough">agnaerutat</del> in arcanis habuerunt, deos 
-				<lb facs="#facs_13_r1l23" n="N024"/>tum genilitios et vugo habitos, <del rend="strikethrough">nem essen</del> ut<del rend="strikethrough">qerter</del> <persName ref="#PIC">Picum</persName>, 
+				<lb facs="#facs_13_r1l23" n="N024"/>tum genilitios et vulgo habitos, <del rend="strikethrough">nem essen</del> ut<del rend="strikethrough">qerter</del> <persName ref="#PIC">Picum</persName>, 
 				<lb facs="#facs_13_r1l24" n="N025"/><persName ref="#FAU">Faunum</persName>, <persName ref="#AEN">Æneam</persName>, <persName ref="#ROM">Romulum</persName>, <persName ref="#HKS">Herculem</persName>, <persName ref="#ASK">Æsculapium</persName>, Liberum 
 				<lb facs="#facs_13_r1l25" n="N026"/>semele natum, Tȳndarides fratres, <persName ref="#JUP">Iovem</persName>, <persName ref="#JUN">Iunonem</persName>, <persName ref="#SAT">Saturnum</persName>, 
 				<lb facs="#facs_13_r1l26" n="N027"/><persName ref="#VUL">Vulcanum</persName>, vestam; et alios, non <choice>
@@ -24994,7 +25009,7 @@
 					<expan>iubetque</expan>
 					<abbr>iubetq</abbr>
 				</choice> á lectione scripturam flammis aboleri, patefactum ê: 
-				<lb facs="#facs_13_r1l30" n="N031"/>ut testatur Aug: de civit: dei l. 8 . C . 5 .
+				<lb facs="#facs_13_r1l30" n="N031"/>ut testatur Aug: de civit: dei l. 8. C. 5.
 				<lb facs="#facs_13_r1l31" n="N032"/>🜊 </p>
 			<pb facs="#facs_14" n="14"/>
 			<p facs="#facs_14_r2">
@@ -25333,12 +25348,12 @@
 				<lb facs="#facs_16_r1l7" n="N007"/><choice>
 					<expan>Atque</expan>
 					<abbr>Atq</abbr>
-				</choice>, si res bene introspiciatur, in hoc conveniunt omnes scriptores, <lb
-					facs="#facs_16_r1l8" n="N008"/>unum <choice>
+				</choice>, si res bene introspiciatur, in hoc conveniunt omnes scriptores, 
+				<lb facs="#facs_16_r1l8" n="N008"/>unum <choice>
 					<expan>eundemque</expan>
 					<abbr>eundemq</abbr>
-				</choice> <persName ref="#OSI">Osirim</persName> diversimode appellatum fuisse: ita et 
-				<lb facs="#facs_16_r1l9" n="N009"/><persName ref="#ISI">Isidem</persName>; et sub hac <persName ref="#LUN">Lunam</persName>, sub illo <persName ref="#SOL">solem</persName>, non cælestes, sed 
+				</choice> <persName ref="#OSI">Osirim</persName> diversimode appellatum fuisse; ita et 
+				<lb facs="#facs_16_r1l9" n="N009"/><persName ref="#ISI">Isidem</persName>; et sub hac <persName ref="#LUN">Lunam</persName>, sub illo <persName ref="#SOL">Solem</persName>, non cælestes, sed 
 				<lb facs="#facs_16_r1l10" n="N010"/>subterraneos, latere; <choice>
 					<expan>quibus</expan>
 					<abbr>ꝗbꝯ</abbr>
@@ -25371,7 +25386,7 @@
 					<expan>quamcunque</expan>
 					<abbr>quamcunq</abbr>
 				</choice> philosophiæ 
-				<lb facs="#facs_16_r1l17" n="N016"/>partem redundant; Abis ê totum homogeneum; partes <choice>
+				<lb facs="#facs_16_r1l17" n="N016"/>partem redundant; <persName ref="#API">Apis</persName> ê totum homogeneum; partes <choice>
 					<expan>eius</expan>
 					<abbr>eiꝯ</abbr>
 				</choice>
@@ -25421,7 +25436,7 @@
 					<expan>rebus</expan>
 					<abbr>rebꝯ</abbr>
 				</choice> dictis consensu: 
-				<lb facs="#facs_16_r1l32" n="N032"/>Tertio; Ex quatuor <choice>
+				<lb facs="#facs_16_r1l32" n="N032"/>Tertio, Ex quatuor <choice>
 					<expan>celebritatibus</expan>
 					<abbr>celebritatibꝯ</abbr>
 				</choice> seu ludis publicis Græciæ: 
@@ -25553,7 +25568,8 @@
 				</choice>: <choice>
 					<expan>Statius</expan>
 					<abbr>Statiꝯ</abbr>
-				</choice> Titana, <persName ref="#APO">Phæbum</persName>, <persName ref="#OSI">Osirin</persName>, Mithran <lb facs="#facs_18_r1l4" n="N004"/>eosdem canit; <del rend="strikethrough">Quis iam non animadvertit continuâ</del>
+				</choice> Titana, <persName ref="#APO">Phæbum</persName>, <persName ref="#OSI">Osirin</persName>, Mithran 
+				<lb facs="#facs_18_r1l4" n="N004"/>eosdem canit; <del rend="strikethrough">Quis iam non animadvertit continuâ</del>
 				<lb facs="#facs_18_r1l6" n="N006"/><del rend="strikethrough">lectione in <choice>
 						<expan>authoribus</expan>
 						<abbr>authoribꝯ</abbr>
@@ -25708,8 +25724,7 @@
 					<expan>concordibus</expan>
 					<abbr>concordibꝯ</abbr>
 					</choice>: <add place="above" facs="#facs_19_l_1639" n="N018">Idem</add> <persName ref="#APO">Apollini</persName> lÿram sonoram dedit, unde ab illo virga 
-				<lb facs="#facs_19_r3l20" n="N020"/>pacis accepit: <persName ref="#TYP">Typhon</persName>
-				<persName ref="#OSI">Osȳridis</persName> frater, dæmon <choice>
+				<lb facs="#facs_19_r3l20" n="N020"/>pacis accepit: <persName ref="#TYP">Typhon</persName> <persName ref="#OSI">Osȳridis</persName> frater, dæmon <choice>
 					<expan>ignitus</expan>
 					<abbr>ignitꝯ</abbr>
 				</choice>
@@ -25740,11 +25755,10 @@
 				<lb facs="#facs_19_r3l27" n="N027"/>et ubi <choice>
 					<expan>sepultus</expan>
 					<abbr>sepultꝯ</abbr>
-				</choice> sit; Nos hic strabonem lib: 5 . <choice>
+				</choice> sit; <add place="below" facs="#facs_19_r3l28" n="N028">De suo post cap: 8.</add> Nos hic strabonem lib: 5. <choice>
 					<expan>Sequimur</expan>
 					<abbr>Seꝗmur</abbr>
-				</choice>
-				<lb facs="#facs_19_r3l28" n="N028"/>De suo post cap: 8 . </p>
+				</choice> </p>
 			<pb facs="#facs_20" n="20"/>
 			<p facs="#facs_20_r1">
 				<lb facs="#facs_20_r1l1" n="N001"/>dicentem: Universum tractum á cumis in <placeName ref="#SIC">Siciliam</placeName>
@@ -26875,7 +26889,7 @@
 				</choice> sit animal <choice>
 					<expan>nullius</expan>
 					<abbr>nulliꝯ</abbr>
-				</choice> <del rend="strikethrough">vel</del> precii aut dignitatis, hinc 
+				</choice> <del rend="strikethrough">vel</del> precÿ aut dignitatis, hinc 
 				<lb facs="#facs_28_r2l6" n="N006"/><persName ref="#TYP">Typhonem</persName> ei assimilarunt; <choice>
 					<expan>quia</expan>
 					<abbr>ꝗa</abbr>
@@ -26884,7 +26898,7 @@
 				<lb facs="#facs_28_r2l8" n="N008"/>cur <choice>
 					<expan>Ochus</expan>
 					<abbr>Ochꝯ</abbr>
-				</choice> persarum rex, <del rend="strikethrough">Æypti</del> cum ab Ægyptiis oros.
+				</choice> Persarum rex, <del rend="strikethrough">Æypti</del> cum ab Ægyptÿs oros.
 				<lb facs="#facs_28_r2l9" n="N009"/><choice>
 					<expan>appellatus</expan>
 					<abbr>appellatꝯ</abbr>
@@ -26912,7 +26926,7 @@
 					<abbr>proiectꝯ</abbr>
 				</choice> sit; Ut <persName ref="#ISI">Isidis</persName> iniuriam sacrum 
 				<lb facs="#facs_28_r2l13" n="N013"/><persName ref="#ISI">Isidi</persName> animal ulcisceretur: 
-				<lb facs="#facs_28_r2l14" n="N014"/>Sunt et alia nomina Apidi attributa: <del rend="strikethrough">Nam</del> Onuphis, 
+				<lb facs="#facs_28_r2l14" n="N014"/>Sunt et alia nomina <persName ref="#API">Apidi</persName> attributa: <del rend="strikethrough">Nam</del> Onuphis, 
 				<lb facs="#facs_28_r2l15" n="N015"/>Bacis et <persName ref="#MNE">Mnevis</persName>; Onuphis niger fuit magnitudinis admi¬ 
 				<lb facs="#facs_28_r2l16" n="N016"/>randæ, et herbam medicam depascebatur: Bacis Hermunthi 
 				<lb facs="#facs_28_r2l17" n="N017"/>colebatur soli sacer; nam et <choice>
@@ -26930,7 +26944,7 @@
 				<lb facs="#facs_28_r2l19" n="N019"/><choice>
 					<expan>nascentibus</expan>
 					<abbr>nascentibꝯ</abbr>
-				</choice> contra naam omnium animalium: Mnevis item 
+				</choice> contra naam omnium animalium: <persName ref="#MNE">Mnevis</persName> item 
 				<lb facs="#facs_28_r2l20" n="N020"/>soli sacer <placeName ref="#HEL">Heliopoli</placeName> colebatur, niger, et nonnullorum sententia 
 				<lb facs="#facs_28_r2l21" n="N021"/><persName ref="#API">Apidis</persName> pater, quem maximis <choice>
 					<expan>testibus</expan>
@@ -26948,8 +26962,8 @@
 					<expan>esse</expan>
 					<abbr>ee</abbr>
 				</choice> dixerit, non errabit. Hinc igitur 
-				<lb facs="#facs_28_r2l28" n="N026"/>constat <del rend="strikethrough">Canon ille</del> <add place="above" facs="#facs_28_r2l27" n="N025">cur dicatur</add> apud strabonem l. 17 . ab <placeName ref="#EGY">Ægyp¬ 
-					<lb facs="#facs_28_r2l29" n="N027"/>tiis</placeName> omnibg <choice>
+				<lb facs="#facs_28_r2l28" n="N026"/>constat <del rend="strikethrough">Canon ille</del> <add place="above" facs="#facs_28_r2l27" n="N025">cur dicatur</add> apud strabonem l. 17. ab <placeName ref="#EGY">Ægyp¬ 
+					<lb facs="#facs_28_r2l29" n="N027"/>tȳs</placeName> <choice><expan>omnibus</expan><abbr>omnibꝯ</abbr></choice> <choice>
 					<expan>per</expan>
 					<abbr>ᵽ</abbr>
 				</choice> æque coli ex <choice>
@@ -26966,7 +26980,7 @@
 			<p facs="#facs_28_r1">
 				<lb facs="#facs_28_r1l1" n="N001"/><persName ref="#TYP">Typhonis</persName> et sulf¬
 				<lb facs="#facs_28_l" n="N002"/>uris 
-				<lb facs="#facs_28_r1l2" n="N003"/>notæ hiero¬ 
+				<lb facs="#facs_28_r1l2" n="N003"/>notæ hyero¬ 
 				<lb facs="#facs_28_r1l3" n="N004"/>glyphicæ: </p>
 			<pb facs="#facs_29" n="29"/>
 			<p facs="#facs_29_r3">
@@ -27316,7 +27330,7 @@
 				<lb facs="#facs_31_r1l35" n="N032"/>et plutar: libello de capiditate opum phibent, hoc ê, mentulæ </p>
 			<pb facs="#facs_32" n="32"/>
 			<p facs="#facs_32_r1">
-				<lb facs="#facs_32_r1l1" n="N001"/>prægrandes: Ægypty statuas pusillas confingebant immani virilis 
+				<lb facs="#facs_32_r1l1" n="N001"/>prægrandes: Ægȳptÿ statuas pusillas confingebant immani virilis 
 				<lb facs="#facs_32_r1l2" n="N002"/>membri mole: <choice>
 					<expan>Theodoritus</expan>
 					<abbr>Thedoritꝯ</abbr>
@@ -27324,8 +27338,8 @@
 				<lb facs="#facs_32_r1l3" n="N003"/><choice>
 					<expan>quibus</expan>
 					<abbr>ꝗbꝯ</abbr>
-				</choice> phalli crcumferebantur: Cur autem priapus <persName ref="#BAC">Bacchi</persName>
-				<lb facs="#facs_32_r1l5" n="N005"/>sacris addatur, ab aliis <add place="above" facs="#facs_32_r1l4" n="N004">variæ</add> <del rend="strikethrough">multæ</del> narrantur causæ; primo <choice>
+				</choice> phalli circumferebantur: Cur autem <persName ref="#PRI">Priapus</persName> <persName ref="#BAC">Bacchi</persName>
+				<lb facs="#facs_32_r1l5" n="N005"/>sacris addatur, ab alÿs <add place="above" facs="#facs_32_r1l4" n="N004">variæ</add> <del rend="strikethrough">multæ</del> narrantur causæ; primo <choice>
 					<expan>quia</expan>
 					<abbr>ꝗa</abbr>
 				</choice>
@@ -27344,7 +27358,7 @@
 					<expan>Diodorus</expan>
 					<abbr><persName ref="#DS">Diodorꝯ</persName></abbr>
 				</choice> <persName ref="#OSI">Osiridem</persName>, quem 
-				<lb facs="#facs_32_r1l8" n="N008"/>eundem <persName ref="#BAC">Bacchum</persName> fuisse ferunt, discerptum á <persName ref="#TYP">Typhone</persName> fratre 
+				<lb facs="#facs_32_r1l8" n="N008"/>eundem <persName ref="#BAC">Bacchum</persName> fuisse ferunt, discerptum á <persName ref="#TYP">Tȳphone</persName> fratre 
 				<lb facs="#facs_32_r1l9" n="N009"/>narrat, <choice>
 					<expan>datumque</expan>
 					<abbr>datumq</abbr>
@@ -27355,24 +27369,24 @@
 				</choice> eorum, <choice>
 					<expan>qui</expan>
 					<abbr>ꝗ</abbr>
-				</choice> cum <persName ref="#TYP">Typhone</persName> coniu¬ 
+				</choice> cum <persName ref="#TYP">Tÿphone</persName> coniu¬ 
 				<lb facs="#facs_32_r1l10" n="N010"/>rarant, partem aliquam, quo et fideliores inter se forent, et <persName ref="#OSI">Osiridis</persName>
 				<lb facs="#facs_32_r1l11" n="N011"/>mors <choice>
 					<expan>melius</expan>
 					<abbr>meliꝯ</abbr>
 				</choice> celaretur, virile membrum, cum nemo vellet recipere, 
 				<lb facs="#facs_32_r1l12" n="N012"/>in <geogName ref="https://d-nb.info/gnd/4042339-6">Nilum</geogName> ê abiectum: Postea <persName ref="#ISI">Isis</persName> mariti necem ulta mem¬ 
-				<lb facs="#facs_32_r1l13" n="N013"/>bra omnia ex coniuratis recuperavit, ac ubi deesse mentu¬ 
+				<lb facs="#facs_32_r1l13" n="N013"/>bra omnia ex coniuratis recuperavit, ac ubi de esse mentu¬ 
 				<lb facs="#facs_32_r1l14" n="N014"/>lam intellexit, imaginem <choice>
 					<expan>eius</expan>
 					<abbr>eiꝯ</abbr>
 				</choice> sacravit, et ad suam consola¬ 
 				<lb facs="#facs_32_r1l15" n="N015"/>tionem maiore habuit honore, quam reliquas partes, <choice>
-					<expan>phallumque</expan>
+					<expan>ce¬</expan>
 					<abbr>ce¬</abbr>
 				</choice>
 				<lb facs="#facs_32_r1l16" n="N016"/><choice>
-					<expan>ceremoniasque</expan>
+					<expan>remoniasque</expan>
 					<abbr>remoniasq</abbr>
 				</choice> et sacra illi instituit, <choice>
 					<expan>phallumque</expan>
@@ -27400,11 +27414,11 @@
 					<expan>huius</expan>
 					<abbr>huiꝯ</abbr>
 				</choice> festi manifestior 
-				<lb facs="#facs_32_r1l22" n="N022"/>fiat: Ægypty scriptores <persName ref="#BAC">Bacchum</persName>, quem <persName ref="#OSI">Osirim</persName> vocârunt, 
+				<lb facs="#facs_32_r1l22" n="N022"/>fiat: Ægȳptÿ scriptores <persName ref="#BAC">Bacchum</persName>, quem <persName ref="#OSI">Osirim</persName> vocârunt, 
 				<lb facs="#facs_32_r1l23" n="N023"/>nutritum fuisse <choice>
 					<expan>inquiunt</expan>
 					<abbr>inꝗunt</abbr>
-				</choice>, in <placeName ref="#NYS">Nysa</placeName> urbe Fælicis <placeName ref="#ARA">Arabiæ</placeName>, 
+				</choice>, in <placeName ref="#NYS">Nÿsa</placeName> urbe Fælicis <placeName ref="#ARA">Arabiæ</placeName>, 
 				<lb facs="#facs_32_r1l24" n="N024"/><choice>
 					<expan>qui</expan>
 					<abbr>ꝗ</abbr>
@@ -27648,7 +27662,7 @@
 				<lb facs="#facs_35_r2l1" n="N001"/>umen <choice>
 					<expan>ipsius</expan>
 					<abbr>ipsiꝯ</abbr>
-				</choice> solis; ad res <choice>
+				</choice> solis; ad oes <choice>
 					<expan>accessus</expan>
 					<abbr>accessꝯ</abbr>
 				</choice> fontes fuerunt dulcium 
@@ -27672,8 +27686,7 @@
 					<lb facs="#facs_35_r2l8" n="N008"/>prudentia, <choice>
 					<expan>omnique</expan>
 					<abbr>omniq</abbr>
-				</choice> genere disciplinarum præstantem: At palla¬ 
-				<lb facs="#facs_35_r2l9" n="N009"/>dem præfecit devitandis insidiis novercæ, quæ paulo ante ad 
+					</choice> genere disciplinarum præstantem: At <rs ref="#ATH" type="person">Palla¬<lb facs="#facs_35_r2l9" n="N009"/>dem</rs> præfecit devitandis insidȳs novercæ, quæ paulo ante ad 
 				<lb facs="#facs_35_r2l10" n="N010"/>fluvium Tritonem é terra edita visa Tritonia fuit appellata: 
 				<lb facs="#facs_35_r2l11" n="N011"/>Enimvero cum <persName ref="#RHI">Rhea</persName> postea virtutem et gloriam <persName ref="#DIO">Dionÿsi</persName>
 				<lb facs="#facs_35_r2l12" n="N012"/>privigni <choice>
@@ -27724,7 +27737,7 @@
 					<expan>visus</expan>
 					<abbr>visꝯ</abbr>
 				</choice> esset, magnum odium subditorum in se concitavit, nec ita 
-				<lb facs="#facs_35_r2l23" n="N023"/>multo post cum magnis copiis comparatis <choice>
+				<lb facs="#facs_35_r2l23" n="N023"/>multo post cum magnis copÿs comparatis <choice>
 					<expan>adversus</expan>
 					<abbr>adversꝯ</abbr>
 				</choice> <placeName ref="#NYS">Nÿsam</placeName>
@@ -27952,7 +27965,8 @@
 				<lb facs="#facs_38_r1l5" n="N005"/>Græcos omnis religio θρΗϐχεία dicitur, nempe <choice>
 					<expan>quia</expan>
 					<abbr>ꝗa</abbr>
-				</choice> ab <lb facs="#facs_38_r1l6" n="N006"/><persName ref="#ORP">Orpheo</persName> <placeName ref="#THR">Thrace</placeName> ille <choice>
+				</choice> ab 
+				<lb facs="#facs_38_r1l6" n="N006"/><persName ref="#ORP">Orpheo</persName> <placeName ref="#THR">Thrace</placeName> ille <choice>
 					<expan>cultus</expan>
 					<abbr>cultꝯ</abbr>
 				</choice> deorum <del rend="strikethrough">in</del> ex <placeName ref="#EGY">Ægypto</placeName> in 
@@ -27972,7 +27986,7 @@
 					<abbr>dicitq</abbr>
 				</choice>
 				<lb facs="#facs_38_r1l10" n="N010"/>varronem ea interpretari voluisse, cum multis ex
-				<lb facs="#facs_38_r1l11" n="N011"/>indiciis collegerit in simulachris aliud significare cæli 
+				<lb facs="#facs_38_r1l11" n="N011"/>indicÿs collegerit in simulachris aliud significare cæli 
 				<lb facs="#facs_38_r1l12" n="N012"/>aliud terram: varro <choice>
 					<expan>quoque</expan>
 					<abbr>quoq</abbr>
@@ -27985,12 +27999,12 @@
 					<expan>qui</expan>
 					<abbr>ꝗ</abbr>
 				</choice> dicantum 
-				<lb facs="#facs_38_r1l16" n="N016"/>dii Samothraces, <choice>
+				<lb facs="#facs_38_r1l16" n="N016"/>dÿ Samothraces, <choice>
 					<expan>praeterquam</expan>
 					<abbr>præterḡ</abbr>
 				</choice> quod apud interpretem 
-				<lb facs="#facs_38_r1l17" n="N017"/><persName ref="#APO">Apollonii</persName> legatur in hunc modum: Caberos vocant 
-				<lb facs="#facs_38_r1l18" n="N018"/>deos samothraces, quorum et nomina Mnaseaspro¬
+				<lb facs="#facs_38_r1l17" n="N017"/><persName ref="#APO">Apollonÿ</persName> legatur in hunc modum: Caberos vocant 
+				<lb facs="#facs_38_r1l18" n="N018"/>deos Samothraces, quorum et nomina Mnaseaspro¬
 				<lb facs="#facs_38_r1l19" n="N019"/>didit, quatuor sunt: <choice>
 					<expan>Axierus</expan>
 					<abbr>Axierꝯ</abbr>
@@ -28013,7 +28027,7 @@
 					<expan>Dionysidorus</expan>
 					<abbr>Dionysidorꝯ</abbr>
 				</choice> narrat: Videntur caberi nominati 
-				<lb facs="#facs_38_r1l23" n="N023"/>á caberis phrygiæ <choice>
+				<lb facs="#facs_38_r1l23" n="N023"/>á caberis <placeName ref="#PHG">Phrȳgiæ</placeName> <choice>
 					<expan>montibus</expan>
 					<abbr>montibꝯ</abbr>
 				</choice>, quod illino sunt trans¬ 
@@ -28035,7 +28049,6 @@
 					<expan>per</expan>
 					<abbr>ᵽ</abbr>
 				</choice> Græciam aliquamdiu celebrata, eodem 
-				<lb facs="#facs_39_r2l2" n="N002"/>2.
 				<lb facs="#facs_39_r2l3" n="N003"/>consilio et instinctu aliud sacrorum <choice>
 					<expan>genus</expan>
 					<abbr>genꝯ</abbr>
@@ -28049,7 +28062,7 @@
 					<expan>nonnunque</expan>
 					<abbr>nonnunq</abbr>
 				</choice>
-				<lb facs="#facs_39_r2l11" n="N010"/>usi sunt, Virg: 4 . Æn: mactant lectas de more bidentes 
+				<lb facs="#facs_39_r2l11" n="N010"/>usi sunt, Virg: 4. Æn: mactant lectas de more bidentes 
 				<lb facs="#facs_39_r2l12" n="N011"/>Legiferæ <persName ref="#CER">Cereri</persName>: Prima <choice>
 					<expan>siquidem</expan>
 					<abbr>siꝗdem</abbr>
@@ -28060,7 +28073,7 @@
 					<abbr>mortalibꝯ</abbr>
 				</choice> leges dedisse 
 				<lb facs="#facs_39_r2l13" n="N012"/>putatur apud Ethnicos, propterea, quod ex agrorum divisione 
-				<lb facs="#facs_39_r2l14" n="N013"/>primum nata credantur iura; Unde <persName ref="#ONP">Ovid</persName>: 5 . Met: de <persName ref="#CER">Cerere</persName>; 
+				<lb facs="#facs_39_r2l14" n="N013"/>primum nata credantur iura; Unde <persName ref="#ONP">Ovid</persName>: 5. Met: de <persName ref="#CER">Cerere</persName>; 
 				<lb facs="#facs_39_r2l15" n="N014"/>Prima dedit leges, <persName ref="#CER">Cereris</persName> sunt omnia <choice>
 					<expan>munus</expan>
 					<abbr>munꝯ</abbr>
@@ -28087,7 +28100,7 @@
 					<expan>Atheniensibus</expan>
 					<abbr>Atheniensibꝯ</abbr>
 				</choice>,
-				<lb facs="#facs_39_r2l21" n="N020"/>ut hcæc Thesmophoria quotannis celebrarent virgines mulieres, 
+				<lb facs="#facs_39_r2l21" n="N020"/>ut hæc Thesmophoria quotannis celebrarent virgines mulieres, 
 				<lb facs="#facs_39_r2l22" n="N021"/>et vitæ honestæ, quæ <choice>
 					<expan>per</expan>
 					<abbr>ᵽ</abbr>
@@ -28122,6 +28135,7 @@
 				<lb facs="#facs_39_r2l30" n="N029"/>Trie tericis abstrusarum cognitionem habuit; unde facilime 
 				<lb facs="#facs_39_r2l31" n="N030"/>ad eorum imitationem festum nolum instituisse potuit: </p>
 			<p facs="#facs_39_r3">
+				<lb facs="#facs_39_r2l2" n="N002"/>2.
 				<lb facs="#facs_39_r3l1" n="N001"/>Thes¬ 
 				<lb facs="#facs_39_r3l2" n="N002"/>mopho¬
 				<lb facs="#facs_39_r3l3" n="N003"/>ria: </p>
@@ -28156,7 +28170,7 @@
 					<abbr>inꝗunt</abbr>
 				</choice>, <persName ref="#EUM">Eumolpum</persName> invenisse sacrificia, quæ fiunt
 				<lb facs="#facs_40_r1l12" n="N012"/>anniversaria in Eleusine <persName ref="#CER">Cereri</persName> et <persName ref="#PRO">Proserpinæ</persName>: Androtio vero 
-				<lb facs="#facs_40_r1l13" n="N013"/>lib: 2. de sacrificiis, Non eum <persName ref="#EUM">Eumolpum</persName>, <choice>
+				<lb facs="#facs_40_r1l13" n="N013"/>lib: 2. de sacrificys, Non eum <persName ref="#EUM">Eumolpum</persName>, <choice>
 					<expan>inquit</expan>
 					<abbr>inꝗt</abbr>
 				</choice>, illa sacrificia 
@@ -28321,7 +28335,7 @@
 				<lb facs="#facs_42_r1l1" n="N001"/>Sed ut in Trietericis monstrabatur, vim masculinam, 
 				<lb facs="#facs_42_r1l2" n="N002"/>agentem, fixam et sulfuream dominari, hic fæmininam, 
 				<lb facs="#facs_42_r1l3" n="N003"/>patientem, volatilem et mercurialem nunc primas obtinere, 
-				<lb facs="#facs_42_r1l4" n="N004"/>tanquam hyeroglyphicis notis <del rend="strikethrough">indicatur</del> insinuatur: 
+				<lb facs="#facs_42_r1l4" n="N004"/>tanquam hÿeroglyphicis notis <del rend="strikethrough">indicatur</del> insinuatur: 
 				<lb facs="#facs_42_r1l5" n="N005"/>seu canistri ex puro auro
 				<lb facs="#facs_42_r1l6" n="N006"/>Ferebantur et cistæ opertæ a <choice>
 					<expan>sacerdotibus</expan>
@@ -28371,7 +28385,8 @@
 				</choice>, ne hospes <choice>
 					<expan>ullus</expan>
 					<abbr>ullꝯ</abbr>
-				</choice> ad ea sa¬ <lb facs="#facs_42_r1l18" n="N018"/>cra admitteretur, ut comentator <persName ref="#ARS">Aristophanis</persName> meminit: 
+				</choice> ad ea sa¬ 
+				<lb facs="#facs_42_r1l18" n="N018"/>cra admitteretur, ut comentator <persName ref="#ARS">Aristophanis</persName> meminit: 
 				<lb facs="#facs_42_r1l19" n="N019"/>Et tunicam <choice>
 					<expan>quidem</expan>
 					<abbr>ꝗdem</abbr>
@@ -28386,7 +28401,7 @@
 					<expan>nunquam</expan>
 					<abbr>nunḡ</abbr>
 				</choice> exuebant, quo ad tandem lacera gest¬ 
-				<lb facs="#facs_42_r1l21" n="N021"/>ari amplig <choice>
+				<lb facs="#facs_42_r1l21" n="N021"/>ari <choice><expan>amplius</expan><abbr>ampliꝯ</abbr></choice> <choice>
 					<expan>nequiret</expan>
 					<abbr>neꝗret</abbr>
 				</choice>: Quid vero intime hisce festis ageretur 
@@ -28398,7 +28413,7 @@
 				<lb facs="#facs_42_r1l24" n="N024"/>ratione ulli indicabant, Inde semper ut res incognita et 
 				<lb facs="#facs_42_r1l25" n="N025"/>obscura Eleusines sacrificatio habita et dicta ê, ut et 
 				<lb facs="#facs_42_r1l26" n="N026"/>proverbio locum fecerit: Hinc diversi apud Ethnicos ac 
-				<lb facs="#facs_42_r1l27" n="N027"/>Christianos diversa de iis memoriæ prodiderunt, pro ut </p>
+				<lb facs="#facs_42_r1l27" n="N027"/>Christianos diversa de ÿs memoriæ prodiderunt, pro ut </p>
 			<pb facs="#facs_43" n="43"/>
 			<p facs="#facs_43_r">
 				<fw facs="#facs_43_l" type="folioNum" place="top-right">20</fw>
@@ -29077,7 +29092,8 @@
 				<lb facs="#facs_49_r1l2" n="N002"/>Olȳmpia, Olȳmpias diebatur; <choice>
 					<expan>Atque</expan>
 					<abbr>Atq</abbr>
-				</choice> tum primum incepere Græci <lb facs="#facs_49_r1l3" n="N003"/>temporis præteriti memoriam habere, nempe quo to anno <choice>
+				</choice> tum primum incepere Græci 
+				<lb facs="#facs_49_r1l3" n="N003"/>temporis præteriti memoriam habere, nempe quo to anno <choice>
 					<expan>cuius</expan>
 					<abbr>cuiꝯ</abbr>
 				</choice> <choice>
@@ -29113,8 +29129,8 @@
 				<lb facs="#facs_49_r1l8" n="N008"/>ductum ê, in <choice>
 					<expan>cuius</expan>
 					<abbr>cuiꝯ</abbr>
-				</choice> campis iuxta <persName ref="#ALP">Alpheum</persName> fluvium sacri ludi
-				cele¬ <lb facs="#facs_49_r1l9" n="N009"/>brabantur: Elis <choice>
+				</choice> campis iuxta <persName ref="#ALP">Alpheum</persName> fluvium sacri ludi cele¬ 
+				<lb facs="#facs_49_r1l9" n="N009"/>brabantur: Elis <choice>
 					<expan>quoque</expan>
 					<abbr>quoq</abbr>
 				</choice> oppidum et pisa sibi authoritatem eorum vendi¬ 
@@ -29147,8 +29163,9 @@
 				<lb facs="#facs_49_r1l18" n="N019"/>et <persName ref="#AUS">Augias</persName> fuerit, postea tradetur; nec <choice>
 					<expan>opus</expan>
 					<abbr>opꝯ</abbr>
-				</choice> ê singula allegoriæ <lb facs="#facs_49_r1l19" n="N020"/>verba in hÿstoriam assumere: Post Olȳmpia fuerunt et Pÿthia 
-				<lb facs="#facs_49_r1l20" n="N021"/>int honorem <persName ref="#APO">Apollinis</persName> instituta; ideo dicta, <choice>
+				</choice> ê singula allegoriæ 
+				<lb facs="#facs_49_r1l19" n="N020"/>verba in hÿstoriam assumere: Post Olȳmpia fuerunt et Pÿthia 
+				<lb facs="#facs_49_r1l20" n="N021"/>in honorem <persName ref="#APO">Apollinis</persName> instituta; ideo dicta, <choice>
 					<expan>quia</expan>
 					<abbr>ꝗa</abbr>
 				</choice> <persName ref="#APO">Apollo</persName>
@@ -29201,9 +29218,8 @@
 					<expan>antiquitus</expan>
 					<abbr>antiꝗtꝯ</abbr>
 				</choice> fuisse memorant, <del rend="strikethrough">gd</del> cum primâ Pÿthiade Dÿ certârunt: 
-				<lb facs="#facs_49_r1l33" n="N035"/>victores q evaserunt, nempe castor stadio, pollux pugilatu; 
-				<lb facs="#facs_49_r1l34" n="N036"/>cursu <persName
-					ref="#KLS">Calais</persName>, <choice>
+				<lb facs="#facs_49_r1l33" n="N035"/>victores q evaserunt, nempe <persName ref="#KAS">Castor</persName> stadio, <persName ref="#POL">Pollux</persName> pugilatu; 
+				<lb facs="#facs_49_r1l34" n="N036"/>cursu <persName ref="#KLS">Calais</persName>, <choice>
 					<expan>armatus</expan>
 					<abbr>armatꝯ</abbr>
 				</choice> <persName ref="#ZET">Zetes</persName>, disco <persName ref="#PEL">Peleus</persName>, lucta <persName ref="#TEL">Telamon</persName>, <persName ref="#HKS">Hercules</persName>
@@ -30218,8 +30234,7 @@
 				</choice> deorum turba, quam vulgo: Ilnum enim et idem diverso 
 				<lb facs="#facs_59_r2l6" n="N006"/>respectu denotarunt; Quamvis <del rend="strikethrough">autem</del> deos terrestres, quorum meminit 
 				<lb facs="#facs_59_r2l7" n="N008"/><persName ref="#HER">Hermes</persName>, præcipue intelligant, tamen potentiam <add place="above" facs="#facs_59_l" n="N007">summi</add> ætherei numinis 
-				<lb facs="#facs_59_r2l8" n="N009"/><del rend="strikethrough"
-					>omnipotentis</del> interim in suis creaturis, his ce tanquam <choice>
+				<lb facs="#facs_59_r2l8" n="N009"/><del rend="strikethrough">omnipotentis</del> interim in suis creaturis, hisce tanquam <choice>
 					<expan>iconibus</expan>
 					<abbr>iconibꝯ</abbr>
 				</choice>, ad¬ 
@@ -30236,7 +30251,7 @@
 				<lb facs="#facs_59_r2l13" n="N015"/><persName ref="#CER">Cererem</persName>, <persName ref="#PRO">Proserpinam</persName>, <choice>
 					<expan>deasque</expan>
 					<abbr>deasq</abbr>
-					</choice> cæteras, non ut numina, sed <add place="above" facs="#facs_59_l_1762" n="N014">ut</add> nomina¬ 
+					</choice> cæteras, non ut numina, sed <add place="above" facs="#facs_59_l_1762" n="N014">ut</add> nomina 
 				<lb facs="#facs_59_r2l14" n="N016"/>artis philosophicæ <choice>
 					<expan>usurpabimus</expan>
 					<abbr>usurpabimꝯ</abbr>
@@ -30270,9 +30285,8 @@
 						<expan>fluctitus</expan>
 						<abbr>fluctitꝯ</abbr>
 					</choice> ambit;</del>
-				<lb facs="#facs_59_r2l23" n="N025"/><del rend="strikethrough">E quo sunt maris et fluliorum femina prima,</del>
-				<lb facs="#facs_59_r2l24" n="N026"/>Hæc <add place="below" facs="#facs_59_l_1782" n="N027">sub</add> <del rend="strikethrough">de</del> <persName ref="JUP">Iovis</persName>
-				<del rend="strikethrough">hoc loce sufficiant</del>: nomine hos loco annotasse sufficiat: 
+				<lb facs="#facs_59_r2l23" n="N025"/><del rend="strikethrough">E quo sunt maris et fluviorum femina prima,</del>
+				<lb facs="#facs_59_r2l24" n="N026"/>Hæc <add place="below" facs="#facs_59_l_1782" n="N027">sub</add> <del rend="strikethrough">de</del> <persName ref="JUP">Iovis</persName><del rend="strikethrough">hoc loce sufficiant</del>: nomine hoc loco annotasse sufficiat: 
 				<lb facs="#facs_59_r2l25" n="N028"/>Nunc educationem, et cunabula <persName ref="#HKS">Herculis</persName>
 				<choice>
 					<expan>evoluemus</expan>
@@ -30297,7 +30311,7 @@
 						<expan>unus</expan>
 						<abbr>unꝯ</abbr>
 					</choice></del>
-				<lb facs="#facs_59_r2l31" n="N034"/><del rend="strikethrough">illorum forte</del> casu à quoquam interemptg sit, <del rend="strikethrough">reli</del> alter <choice>
+				<lb facs="#facs_59_r2l31" n="N034"/><del rend="strikethrough">illorum forte</del> casu à quoquam <choice><expan>interemptus</expan><abbr>interemptꝯ</abbr></choice> sit, <del rend="strikethrough">reli</del> alter <choice>
 					<expan>percussorem</expan>
 					<abbr>ᵽcussorem</abbr>
 				</choice>
@@ -30733,7 +30747,7 @@
 						<expan>Neptunus</expan>
 						<abbr><persName ref="#NEP">Neptunꝯ</persName></abbr>
 				</choice> fu</del> furiosus<add place="above" facs="#facs_63_l_1890" n="N022">a</add>, <del rend="strikethrough">quem</del> <persName ref="#NEP">Neptuno</persName>
-				<lb facs="#facs_63_r3l30" n="N025"/>in insulam cretam <add place="above" facs="#facs_63_r3l28" n="N024"><persName ref="#MNS">Minoi</persName> tum parentem</add> <del rend="strikethrough">devastandam egerent</del>, <choice>
+				<lb facs="#facs_63_r3l30" n="N025"/>in insulam <placeName ref="#CRE">Cretam</placeName> <add place="above" facs="#facs_63_r3l28" n="N024"><persName ref="#MNS">Minoi</persName> tum parentem</add> <del rend="strikethrough">devastandam egerent</del>, <choice>
 					<expan>actus</expan>
 					<abbr>actꝯ</abbr>
 				</choice>, ab eodem 
@@ -30751,7 +30765,7 @@
 				<lb facs="#facs_63_r3l33" n="N028"/>lides avos sagittis, ut <choice>
 					<expan>quidam</expan>
 					<abbr>ꝗdam</abbr>
-				</choice> volunt, interfecit, ut alii, sonitu 
+				</choice> volunt, interfecit, ut alÿ, sonitu 
 				<lb facs="#facs_63_r3l34" n="N029"/>ahenei crepitaculi <choice>
 					<expan>usque</expan>
 					<abbr>usq</abbr>
@@ -31067,7 +31081,7 @@
 				<lb facs="#facs_65_l" n="N001"/>8. </p>
 			<pb facs="#facs_66" n="66"/>
 			<p facs="#facs_66_r3">
-				<lb facs="#facs_66_r3l1" n="N001"/>aquam fætidam à viva separa, et habebis pro cornu
+				<lb facs="#facs_66_r3l1" n="N001"/>aquam fætidam á viva separa, et habebis pro cornu
 				<lb facs="#facs_66_r3l3" n="N002"/>Acheloi, cornu <persName ref="#AMA">Amaltheæ</persName> ditissimum: <persName ref="#DMD">Diomedem</persName> Thra¬
 				<lb facs="#facs_66_r3l7" n="N004"/>ciæ regem, <add place="above" facs="#facs_66_r3l6" n="N003"><persName ref="#KYR">Cyrenes</persName>
 				<choice>
@@ -31079,8 +31093,9 @@
 				</choice> equos suos nostritum <choice>
 					<expan>carnibus</expan>
 					<abbr>carnibꝯ</abbr>
-				</choice> et sanguine pascebat <lb facs="#facs_66_r3l9" n="N005"/><unclear reason="illegible">Teroclitimos</unclear> ignemq <unclear reason="illegible">piratus</unclear>
-				<lb facs="#facs_66_r3l10" n="N006"/>devicit, victumq <choice>
+				</choice> et sanguine pascebat 
+				<lb facs="#facs_66_r3l9" n="N005"/><unclear reason="illegible">Teroclitimos</unclear> <choice><expan>ignemque</expan><abbr>ignemq</abbr></choice> <unclear reason="illegible">piratus</unclear>
+				<lb facs="#facs_66_r3l10" n="N006"/>devicit, <choice><expan>victumque</expan><abbr>victumq</abbr></choice> <choice>
 					<expan>ipsius</expan>
 					<abbr>ipsiꝯ</abbr>
 				</choice> <choice>
@@ -31110,7 +31125,7 @@
 				<lb facs="#facs_66_r3l18" n="N014"/><choice>
 					<expan>quidem</expan>
 					<abbr>ꝗdem</abbr>
-				</choice> hæc rei gestæ narratio hystorica videri, unde non 
+				</choice> hæc rei gestæ narratio hÿstorica videri, unde non 
 				<lb facs="#facs_66_r3l19" n="N015"/>immerito monstrorum seu tyrannorum domitor <persName ref="#HKS">Hercules</persName> censeretur, 
 				<lb facs="#facs_66_r3l20" n="N016"/>sed non <choice>
 					<expan>minus</expan>
@@ -31480,14 +31495,13 @@
 				</choice> <del rend="strikethrough">in</del>
 				<choice>
 					<expan>percipiatur</expan>
-					<abbr>ᵽcipiatur,</abbr>
-				</choice> nonnulla ex ludovico vive Hispano 
+					<abbr>ᵽcipiatur</abbr>
+				</choice>, nonnulla ex ludovico vive Hispano 
 				<lb facs="#facs_70_r1l10" n="N010"/>ad l. 8. C. 9. August: de Civ: dei commentante, <choice>
 					<expan>adferemus</expan>
-					<abbr>adferemꝯ:</abbr>
-				</choice>
-				<lb facs="#facs_70_r1l11" n="N011"/>In ea terrâ (<placeName ref="#SPA"
-					>Hispania</placeName>, <choice>
+					<abbr>adferemꝯ</abbr>
+				</choice>:
+				<lb facs="#facs_70_r1l11" n="N011"/>In ea terrâ (<placeName ref="#SPA">Hispania</placeName>, <choice>
 					<expan>inquit</expan>
 					<abbr>inꝗt</abbr>
 				</choice>) <choice>
@@ -31508,9 +31522,9 @@
 					<expan>quietique</expan>
 					<abbr>ꝗetiq</abbr>
 				</choice>: 
-				<lb facs="#facs_70_r1l14" n="N014"/>singuli populi á magistratu annuo regebantur viris præstan 
+				<lb facs="#facs_70_r1l14" n="N014"/>singuli populi á magistratu annuo regebantur viris præstan¬ 
 				<lb facs="#facs_70_r1l15" n="N015"/>tissimis eruditione et probitate: æquo et bono transigebantu 
-				<lb facs="#facs_70_r1l16" n="N016"/>res, non legum numero; et si scriptæ aliquot dicuntur, præ 
+				<lb facs="#facs_70_r1l16" n="N016"/>res, non legum numero; et si scriptæ aliquot dicuntur, præ¬ 
 				<lb facs="#facs_70_r1l17" n="N017"/>cipue apud Turdetanos magnâ velustate temporis: lites 
 				<lb facs="#facs_70_r1l18" n="N018"/><choice>
 					<expan>controversiæque</expan>
@@ -31539,11 +31553,11 @@
 					<expan>atque</expan>
 					<abbr>atq</abbr>
 				</choice> inusitatam admirari maam: Hinc <choice>
-					<expan>phonicibus</expan>
+					<expan>pho¬</expan>
 					<abbr>pho¬</abbr>
 				</choice>
 				<lb facs="#facs_70_r1l24" n="N024"/><choice>
-					<expan>phonicibus</expan>
+					<expan>nicibus</expan>
 					<abbr>nicibꝯ</abbr>
 				</choice>, <choice>
 					<expan>qui</expan>
@@ -31557,8 +31571,8 @@
 					<expan>opibus</expan>
 					<abbr>opibꝯ</abbr>
 				</choice>, cum exigui pretÿ <choice>
-					<expan>ribus</expan>
-					<abbr>ribꝯ</abbr>
+					<expan>rebus</expan>
+					<abbr>rebꝯ</abbr>
 				</choice> <choice>
 					<expan>permutabant</expan>
 					<abbr>ᵽmutabant</abbr>
@@ -31762,8 +31776,8 @@
 					<expan>illius</expan>
 					<abbr>illiꝯ</abbr>
 				</choice> immensos ostendunt: Diversi enim authores ad di¬ 
-				<lb facs="#facs_72_r3l11" n="N010"/>versas res respexerunt; Ægyptii et post eos sapientiores Græci <del rend="strikethrough">ad</del> insuis 
-				<lb facs="#facs_72_r3l12" n="N011"/>allegoriis de <persName ref="#HKS">Hercule</persName> ad finem medicinæ occultæ; alii ignari seu poetæ 
+				<lb facs="#facs_72_r3l11" n="N010"/>versas res respexerunt; Ægyptÿ et post eos sapientiores Græci <del rend="strikethrough">ad</del> insuis 
+				<lb facs="#facs_72_r3l12" n="N011"/>allegorÿs de <persName ref="#HKS">Hercule</persName> ad finem medicinæ occultæ; alÿ ignari seu poetæ 
 				<lb facs="#facs_72_r3l13" n="N012"/>seu philosophi ad alia intentionem habuere; Hi enim <choice>
 					<expan>potius</expan>
 					<abbr>potiꝯ</abbr>
@@ -31772,7 +31786,7 @@
 					<expan>omnibus</expan>
 					<abbr>omnibꝯ</abbr>
 				</choice> afflictis opem ferentem in <persName ref="#HKS">Herculis</persName> Icone ob oculos posuerunt; 
-				<lb facs="#facs_72_r3l15" n="N014"/>Alii et <choice>
+				<lb facs="#facs_72_r3l15" n="N014"/>Alÿ et <choice>
 					<expan>quæque</expan>
 					<abbr>quæq</abbr>
 				</choice> impossibilia uni <persName ref="#HKS">Herculi</persName> ut possibilia assignârunt; si <choice>
@@ -31786,7 +31800,7 @@
 				<lb facs="#facs_72_r3l17" n="N016"/>et <choice>
 					<expan>quidem</expan>
 					<abbr>ꝗdem</abbr>
-				</choice> facilime; cum constet eigmodi reges <choice>
+				</choice> facilime; cum constet <choice><expan>eiusmodi</expan><abbr>eiꝯmodi</abbr></choice> reges <choice>
 					<expan>nunquam</expan>
 					<abbr>nunḡ</abbr>
 				</choice> vixisse, sed ex aurea 
@@ -31817,14 +31831,14 @@
 					<expan>filius</expan>
 					<abbr>filiꝯ</abbr>
 				</choice> solis, 
-				<lb facs="#facs_72_r3l26" n="N025"/>ut alii, <persName ref="#NEP">Neptuni</persName>, ut alii Phorbantis et Hirmines, vel <persName ref="#NYK">Nyctei</persName> vel Epoch<gap reason="illegible" extent="several characters"/>  
+				<lb facs="#facs_72_r3l26" n="N025"/>ut alÿ, <persName ref="#NEP">Neptuni</persName>, ut alÿ Phorbantis et Hirmines, vel <persName ref="#NYK">Nyctei</persName> vel Epoch<gap reason="illegible" extent="several characters"/>  
 				<lb facs="#facs_72_r3l27" n="N026"/>e <choice>
 					<expan>cuius</expan>
 					<abbr>cuiꝯ</abbr>
-				</choice> oculis radii <choice>
+				</choice> oculis radÿ <choice>
 					<expan>solaribus</expan>
 					<abbr>solaribꝯ</abbr>
-				</choice> similes effluere dicebantur: Ex spoliis 
+				</choice> similes effluere dicebantur: Ex spolÿs 
 				<lb facs="#facs_72_r3l28" n="N027"/><persName ref="#AUS">Augiæ</persName>
 				<choice>
 					<expan>quidam</expan>
@@ -31835,7 +31849,7 @@
 					<expan>nullus</expan>
 					<abbr>nullꝯ</abbr>
 				</choice> nisi ineptæ rationis 
-				<lb facs="#facs_72_r3l31" n="N030"/><del rend="strikethrough">illi res</del> illum authorem Olympiadum efficiet: <persName ref="#AUS">Augiæ</persName> <add place="below" facs="#facs_72_r3l32" n="N031">seu solis filii</add> stabulum, 
+				<lb facs="#facs_72_r3l31" n="N030"/><del rend="strikethrough">illi res</del> illum authorem Olympiadum efficiet: <persName ref="#AUS">Augiæ</persName> <add place="below" facs="#facs_72_r3l32" n="N031">seu solis filÿ</add> stabulum, 
 				<lb facs="#facs_72_r3l33" n="N032"/><del rend="strikethrough">sæpe <choice>
 						<expan>sæpius</expan>
 						<abbr>sæpiꝯ</abbr>
@@ -32202,7 +32216,7 @@
 					<expan>enarravimus</expan>
 					<abbr>enarravimꝯ</abbr>
 				</choice>, Lÿram hoc est 
-				<lb facs="#facs_75_r4l20" n="N019"/>sonoritatem <persName ref="#APO">Apollini</persName> dedit, à quo virgam pacificam duorum ser¬ 
+				<lb facs="#facs_75_r4l20" n="N019"/>sonoritatem <persName ref="#APO">Apollini</persName> dedit, á quo virgam pacificam duorum ser¬ 
 				<lb facs="#facs_75_r4l21" n="N020"/>pentum complica forum accepit: <choice>
 					<expan>Primus</expan>
 					<abbr>Primꝯ</abbr>
@@ -32213,10 +32227,9 @@
 				<lb facs="#facs_75_r4l22" n="N021"/>acutum, gravem et medium reperisse dr: Et <persName ref="#MAM">M. <choice>
 						<expan>Manilius</expan>
 						<abbr>Maniliꝯ</abbr>
-					</choice></persName> <del rend="strikethrough">in . 1 . l . rer</del>: 
+					</choice></persName> <del rend="strikethrough">in . 1. l. rer</del>: 
 				<lb facs="#facs_75_r4l23" n="N022"/>conatur ostendere universum fundamentum religionis apud 
-				<lb facs="#facs_75_r4l24" n="N023"/>Ægȳptios à <persName ref="#MER"
-					>Mercurio</persName>
+				<lb facs="#facs_75_r4l24" n="N023"/>Ægȳptios á <persName ref="#MER">Mercurio</persName>
 				<choice>
 					<expan>prius</expan>
 					<abbr>priꝯ</abbr>
@@ -32256,7 +32269,7 @@
 					<expan>quibus</expan>
 					<abbr>ꝗbꝯ</abbr>
 				</choice> esset summa sapientia, Uranum 
-				<lb facs="#facs_75_r4l32" n="N031"/>sive ælum, <persName ref="#SAT">Saturnum</persName> et <persName ref="#MER">Mercurium</persName>: Et <persName ref="#ORP">Orpheus</persName> in libro 
+				<lb facs="#facs_75_r4l32" n="N031"/>sive cælum, <persName ref="#SAT">Saturnum</persName> et <persName ref="#MER">Mercurium</persName>: Et <persName ref="#ORP">Orpheus</persName> in libro 
 				<lb facs="#facs_75_r4l33" n="N032"/>de lapillis, cum homines ad studia adhortaretur, ad speluncam </p>
 			<pb facs="#facs_76" n="76"/>
 			<p facs="#facs_76_r1">
@@ -32887,7 +32900,7 @@
 					<expan>cæcus</expan>
 					<abbr>cæcꝯ</abbr>
 				</choice> erat, tamen calamitatum suaru 
-				<lb facs="#facs_80_r1l21" n="N022"/>finem fato sibi portendi sciebat, cum Boreæ filii ad ipsum acres¬ 
+				<lb facs="#facs_80_r1l21" n="N022"/>finem fato sibi portendi sciebat, cum Boreæ filÿ ad ipsum acres¬ 
 				<lb facs="#facs_80_r1l22" n="N023"/>sissent: Nam mirifice ab <persName ref="#HRP">Harpyis</persName> infestabatur; Has calais et 
 				<lb facs="#facs_80_r1l23" n="N024"/><persName ref="#ZET">Zetes</persName> á mensa <choice>
 					<expan>eius</expan>
@@ -34848,7 +34861,7 @@
 					<abbr>ꝗdam</abbr>
 				</choice> Tindari regis filiam in <persName ref="#KYK">Cȳgnum</persName> convers<gap reason="illegible" extent="several characters"/>
 				<lb facs="#facs_104_r1l17" n="N016"/>compresserit; ex quo concubitu illa duo ova pep<gap reason="illegible" extent="several characters"/>
-				<lb facs="#facs_104_r1l19" n="N017"/>rit, Ex quorum uno gemini pulli, <persName ref="#KAS">Pollux</persName> et Hele<gap reason="illegible" extent="several characters"/>
+				<lb facs="#facs_104_r1l19" n="N017"/>rit, Ex quorum uno gemini pulli, <persName ref="#POL">Pollux</persName> et Hele<gap reason="illegible" extent="several characters"/>
 				<lb facs="#facs_104_r1l20" n="N018"/>ex altere, castor et <persName ref="#KLY">Clÿtemnestra</persName> nati sint; hi 
 				<lb facs="#facs_104_r1l21" n="N019"/>duo <choice>
 					<expan>tanquam</expan>
@@ -40094,11 +40107,11 @@
 				</choice> ê eorum filiorum <choice>
 					<expan>numerus</expan>
 					<abbr>numerꝯ</abbr>
-				</choice> ex vaiis nymph<gap reason="illegible" extent="several characters"/>
+				</choice> ex varÿs nymph<gap reason="illegible" extent="several characters"/>
 				<lb facs="#facs_162_r1l5" n="N005"/>et <choice>
 					<expan>pellicibus</expan>
 					<abbr>pellicibꝯ</abbr>
-				</choice>: Unde alii dicunt se octoginta filio
+				</choice>: Unde alÿ dicunt se octoginta filio
 				<lb facs="#facs_162_r1l6" n="N006"/><persName ref="#NEP">Neptuni</persName> legisse: Inter alios sunt <persName ref="#NEL">Neleus</persName> et 
 				<lb facs="#facs_162_r1l7" n="N007"/><persName ref="#PLS">Pelias</persName> et <choice>
 					<expan>Astneus</expan>
@@ -40148,7 +40161,7 @@
 					<expan>qui</expan>
 					<abbr>ꝗ</abbr>
 				</choice>
-				<lb facs="#facs_162_r1l19" n="N018"/>ex variis <choice>
+				<lb facs="#facs_162_r1l19" n="N018"/>ex varÿs <choice>
 					<expan>pellicibus</expan>
 					<abbr>pellicibꝯ</abbr>
 				</choice>, nymphis innumeram progeniem 
@@ -40670,7 +40683,7 @@
 					<abbr>ꝗ</abbr>
 				</choice> tenuit Insulam propter <placeName ref="#SIC">Siciliam</placeName>, quæ vulcaniæ 
 				<lb facs="#facs_169_r2l5" n="N005"/>nominabantur: Hanc aut similem distinctionem 
-				<lb facs="#facs_169_r2l6" n="N006"/><persName ref="#CMT">Cicero</persName> in cæteris diis <choice>
+				<lb facs="#facs_169_r2l6" n="N006"/><persName ref="#CMT">Cicero</persName> in cæteris dÿs <choice>
 					<expan>quoque</expan>
 					<abbr>quoq</abbr>
 				</choice> observat: sed ille 
@@ -44981,7 +44994,7 @@
 				</choice> vires collectarum herbarum: <del rend="strikethrough">Lycophroni et</del> <persName ref="#ONP">Ovide</persName>
 				<lb facs="#facs_216_r1l11" n="N011"/>l. 14. met: meminerunt ciborum, quos illa <del rend="strikethrough">ho</del> alÿs porre<gap reason="illegible" extent="several characters"/>  
 				<lb facs="#facs_216_r1l12" n="N012"/>gere solebat, ut in feras mutarentur; Et <persName ref="#LYC">Lȳcophron</persName>
-				<lb facs="#facs_216_r1l13" n="N013"/>de ÿs, et contra ipsos remediis sit <choice>
+				<lb facs="#facs_216_r1l13" n="N013"/>de ÿs, et contra ipsos remedÿs sit <choice>
 					<expan>inquit</expan>
 					<abbr>inꝗt</abbr>
 				</choice>: Quam non 
@@ -45472,7 +45485,7 @@
 					<abbr>dicemꝯ</abbr>
 				</choice>, quæ fæminæ quondam 
 				<lb facs="#facs_223_r3l3" n="N003"/>dicuntur fuisse: <persName ref="#SKY">Scȳlla</persName> Phoriynis et <persName ref="#HEK">Hecates</persName> filia: 
-				<lb facs="#facs_223_r3l4" n="N004"/>alÿ <persName ref="#CRA">Cratæis</persName> et <persName ref="#PHR">Phorci</persName>, qui eidem sunt; alii Phorbantis 
+				<lb facs="#facs_223_r3l4" n="N004"/>alÿ <persName ref="#CRA">Cratæis</persName> et <persName ref="#PHR">Phorci</persName>, qui eidem sunt; alÿ Phorbantis 
 				<lb facs="#facs_223_r3l5" n="N005"/>et <persName ref="#HEK">Hecates</persName>, alÿ <persName ref="#LAM">Lamiæ</persName>, alÿ <persName ref="#TYP">Tȳphonis</persName>, <choice>
 					<expan>quidam</expan>
 					<abbr>ꝗdam</abbr>
@@ -45895,7 +45908,7 @@
 					<abbr><persName ref="#HSD">Hesiodꝯ</persName></abbr>
 				</choice> veri <persName ref="#GAI">Terræ</persName>
 				<lb facs="#facs_227_r3l21" n="N021"/>ac <persName ref="#ERE">Erebi</persName> filium fuisse <persName ref="#TYP">Tȳphona</persName> sive <persName ref="#TYP">Tȳphoeum</persName> credidit: Alÿ 
-				<lb facs="#facs_227_r3l22" n="N022"/>in <placeName ref="#LYD">Lydia</placeName>, alii in <placeName ref="#PHG">Phrȳgia</placeName>, alii in <placeName ref="#CIL">Cilicia</placeName> educatum fuisse con¬ 
+				<lb facs="#facs_227_r3l22" n="N022"/>in <placeName ref="#LYD">Lydia</placeName>, alÿ in <placeName ref="#PHG">Phrȳgia</placeName>, alÿ in <placeName ref="#CIL">Cilicia</placeName> educatum fuisse con¬ 
 				<lb facs="#facs_227_r3l23" n="N023"/>tendunt: ubi spelunca <persName ref="#TYP">Tȳphonis</persName> erat: Fingebatur autem 
 				<lb facs="#facs_227_r3l24" n="N024"/><choice>
 					<expan>Tÿphoeus</expan>
@@ -49173,7 +49186,7 @@
 			</p>
 			<p facs="#facs_263_r1">
 				<lb facs="#facs_263_r1l1" n="N001"/>Quem repertum centum Antistites, Memphin prose¬
-				<lb facs="#facs_263_r1l2" n="N002"/>quuntur, ut incipiat sacris ibi initiatii facer fieri: 
+				<lb facs="#facs_263_r1l2" n="N002"/>quuntur, ut incipiat sacris ibi initiatÿ facer fieri: 
 				<lb facs="#facs_263_r1l3" n="N003"/>Eudem habet <choice>
 					<expan>Marællinus</expan>
 					<abbr>Marællinꝯ</abbr>
@@ -49276,7 +49289,7 @@
 				</choice> evulgasset: Unde <choice>
 					<expan>Deus</expan>
 					<abbr>Deꝯ</abbr>
-				</choice> silentii admonens
+				</choice> silentÿ admonens
 				<lb facs="#facs_264_r1l9" n="N009"/>digito premens labia <persName ref="#HAR">Harpocrates</persName>
 				<choice>
 					<expan>dictus</expan>
