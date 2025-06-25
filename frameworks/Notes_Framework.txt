@@ -1,0 +1,1 @@
+Automatische IDs in oxygen setzen:ARITHMETIC -> ID Options -> add element name; Auto generateBerufe, etc. in ODD verankern?
